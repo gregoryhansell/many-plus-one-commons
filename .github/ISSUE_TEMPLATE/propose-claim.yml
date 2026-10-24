@@ -1,0 +1,38 @@
+name: Propose a philosophical claim
+description: Draft a thesis, its scope, and a serious objection.
+title: "[Claim] "
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: Thesis
+      description: One precise proposition, with definitions and scope.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Epistemic status
+      options:
+        - proposal
+        - contested
+        - supported
+    validations:
+      required: true
+  - type: textarea
+    id: counter
+    attributes:
+      label: Strongest counterargument and possible revision
+    validations:
+      required: true
+  - type: textarea
+    id: relations
+    attributes:
+      label: Related claims and independently verified sources
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Consent and privacy
+      options:
+        - label: This proposal includes no private conversation transcript or unconsented personal information.
+          required: true

@@ -1,0 +1,21 @@
+name: Validate research and privacy
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Validate structure and links
+        run: python3 scripts/validate.py
+      - name: Check publication safeguards
+        run: python3 -m unittest discover -s tests
+      - name: Scan publication content
+        run: python3 scripts/privacy_check.py

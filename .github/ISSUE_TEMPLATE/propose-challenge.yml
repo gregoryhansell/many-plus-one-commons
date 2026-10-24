@@ -1,0 +1,30 @@
+name: Challenge a claim
+description: Submit the strongest serious objection to an existing thesis.
+title: "[Challenge] "
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Target claim ID
+      placeholder: C001
+    validations:
+      required: true
+  - type: textarea
+    id: objection
+    attributes:
+      label: Argument, rival account, or counterexample
+    validations:
+      required: true
+  - type: textarea
+    id: consequence
+    attributes:
+      label: What a successful answer would need to show
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Consent and privacy
+      options:
+        - label: This submission contains no private chat transcript or unconsented personal information.
+          required: true

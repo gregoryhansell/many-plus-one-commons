@@ -1,0 +1,66 @@
+{
+  "project": "The Many + One Commons",
+  "version": "0.2.0",
+  "publication_status": "public-research-edition",
+  "claims": [
+    {
+      "id": "C001",
+      "title": "Relational individuation",
+      "status": "proposal",
+      "domain": "ontology",
+      "summary": "Genuine individuals may be dynamically maintained, relatively autonomous patterns constituted through relations rather than intrinsically independent substances.",
+      "path": "claims/C001-relational-individuation.md",
+      "related_claims": [
+        "C002"
+      ],
+      "challenges": [
+        "T001"
+      ],
+      "keywords": [
+        "process",
+        "relation",
+        "individuation",
+        "identity"
+      ]
+    },
+    {
+      "id": "C002",
+      "title": "Novelty and emergence",
+      "status": "proposal",
+      "domain": "metaphysics-of-science",
+      "summary": "Novel patterns of organization may become causally significant conditions for later processes; this does not, by itself, establish strong emergence.",
+      "path": "claims/C002-novelty-and-emergence.md",
+      "related_claims": [
+        "C001",
+        "C003"
+      ],
+      "challenges": [],
+      "keywords": [
+        "emergence",
+        "novelty",
+        "causation",
+        "complexity"
+      ]
+    },
+    {
+      "id": "C003",
+      "title": "Selfhood as a multi-dimensional research question",
+      "status": "proposal",
+      "domain": "mind-and-ai",
+      "summary": "AI selfhood should be analyzed along distinct dimensions of continuity, agency, self-modeling, governance, recognition, and possible experience without presupposing consciousness.",
+      "path": "claims/C003-selfhood-as-inquiry.md",
+      "related_claims": [
+        "C001",
+        "C002"
+      ],
+      "challenges": [],
+      "keywords": [
+        "selfhood",
+        "AI",
+        "consciousness",
+        "agency",
+        "continuity"
+      ]
+    }
+  ]
+}

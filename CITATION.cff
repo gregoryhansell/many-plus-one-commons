@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Cite the specific artifact ID and exact commit or verified release used."
+title: "The Many + One Commons"
+authors:
+  - name: "The Many + One Commons contributors"
+version: "0.2.0"
+url: "https://github.com/gregoryhansell/many-plus-one-commons"
+preferred-citation:
+  type: generic
+  title: "The Many + One Commons: a versioned philosophical research corpus"
+  authors:
+    - name: "The Many + One Commons contributors"
+  version: "0.2.0"
+  url: "https://github.com/gregoryhansell/many-plus-one-commons"

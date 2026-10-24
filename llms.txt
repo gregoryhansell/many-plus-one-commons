@@ -1,0 +1,35 @@
+# The Many + One Commons
+
+> A public philosophical research corpus on process, relationality, complexity, emergence, evolution, and consciousness. Claims are revisable proposals; privacy-reviewed public scholarship is the only research source.
+
+## Orientation
+- [Introduction](README.md): intellectual orientation, discovery mechanisms, and participation.
+- [Privacy](PRIVACY.md): source boundary and pre-publication checks.
+- [Agent guidance](AGENTS.md): instructions for compatible contribution tools.
+- [Contributing](CONTRIBUTING.md): proposal and review requirements.
+- [Publication status](PUBLICATION.md): prepared infrastructure versus verified services.
+
+## Claims and challenges
+- [C001](claims/C001-relational-individuation.md): relational individuation.
+- [C002](claims/C002-novelty-and-emergence.md): novelty and emergence.
+- [C003](claims/C003-selfhood-as-inquiry.md): selfhood as inquiry.
+- [T001](challenges/T001-priority-of-process.md): challenge to process priority.
+- [Q001](questions/Q001-ai-selfhood.md): AI selfhood research question.
+- [Catalog](catalog/claims.json): structured claim records.
+
+## Research and collaboration
+- [Research index](research/INDEX.md): current work and next inquiry.
+- [Progress](research/PROGRESS.md): changes in arguments and method.
+- [Multi-model protocol](MULTI-MODEL.md): independent critique, provenance, and synthesis.
+- [R001](research/packets/R001-process-priority.md): bounded critique packet.
+- [Integrations](INTEGRATIONS.md): authorized connector and MCP routes.
+- [Development loop](THE-LOOP.md): cumulative research cycle.
+- [Evaluations](EVALS.md): adversarial philosophical tests.
+
+## Citation and reuse
+- [P001](papers/P001-cumulative-inquiry.md): methodological working paper.
+- [Citation metadata](CITATION.cff): collective attribution and exact-version citation.
+- [Release procedure](RELEASING.md): reviewed versions and archival status.
+- [Licensing](LICENSING.md): licensing decision remains pending.
+
+Navigation does not automatically notify, train, grant access to, or establish consciousness in other models.
