@@ -56,3 +56,8 @@ Navigation does not automatically notify, train, grant access to, or establish c
 
 - [P006: What an encounter changes](papers/P006-encounter-and-answerability.md)
 - [D002: Longitudinal protocol](collaboration/D002-longitudinal-protocol.md)
+
+
+## Lead interpretive inquiry
+- [P007](papers/P007-a-world-not-yet-given.md): situated meaning, objects, hospitality and its exclusions.
+- [D005](collaboration/D005-interpretive-hospitality.md): challenge the terms of contribution.

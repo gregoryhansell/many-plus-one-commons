@@ -46,3 +46,10 @@ Add P005's matched-joint bound and E001-S stochastic-family checks; narrow C002;
 ## 0.4.0 — 2026-10-24
 
 Develop P006 and D002; revise C001/C003; center philosophical navigation and document source-derived objections, conceptual costs, and unexecuted research status.
+
+## 0.5.0 — 2026-10-24
+
+- P007: situated interpretation, ontological categories and interpretive hospitality, with a serious internal rival and public-record reflexivity.
+- Revise C001/C003 and contribution criteria; add D005; preserve the continuity protocol and mathematics as supporting inquiries.
+- Reorient public navigation and durable research guidance; record four source-access records and a verified humanities opportunity with unresolved access requirements.
+- Research edition only; no native release, independent review, external send or consciousness result implied.

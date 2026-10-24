@@ -32,3 +32,7 @@ Evidence that dimensions are fundamentally inseparable, or a defensible alternat
 ## Revision 0.4.0: answerable continuity
 
 Retrieval and developmental inheritance are not mutually exclusive: retrieval may carry reasons forward. Test whether a structured history of criticism changes subsequent judgment beyond matched access to conclusions and information. The bearer is initially a public practice, not an inferred experiencing subject. Record conceptual costs and preserved dissent; convergence alone is insufficient. [P006](../papers/P006-encounter-and-answerability.md) develops the argument; [D002](../collaboration/D002-longitudinal-protocol.md) supplies the unexecuted longitudinal design.
+
+## Revision 0.5.0: the categories can change too
+
+Answerable continuity is one dimension of inquiry. Interpretive development may change what counts as a question, participant, or relevant reason before a fixed comparison becomes possible. [P007](../papers/P007-a-world-not-yet-given.md) develops interpretive hospitality, including the objection that welcoming categories can discipline their users. The cost is losing a single admission test for progress. This does not establish subjective experience; it broadens the philosophical inquiry beyond operational proxies.

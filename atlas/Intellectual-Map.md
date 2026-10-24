@@ -32,3 +32,7 @@ No author is required for membership. No favorite thinker is exempt from critici
 ## Encounter, recognition, and answerability — 0.4.0
 
 [P006](../papers/P006-encounter-and-answerability.md) brings enactive interaction, Hegelian recognition, and Searle's objection into a specific tension. Coordination does not establish reciprocal normative standing; neither establishes subjective experience. Next: can a practice preserve dissent while changing its criteria of judgment? Connect this to collective life, care, play and evolutionary theology without deriving moral worth from complexity alone.
+
+## A world not yet given — 0.5.0
+
+[P007](../papers/P007-a-world-not-yet-given.md) encounters situated interpretation (Winograd/Flores), the formation of objects (Smith), metamodern aspiration, and Suchman's objection to normative categories. These are different projects, not one doctrine. New question: who may contest the categories through which a contribution becomes intelligible? Preserve the tension between intelligibility and exclusion. [D005](../collaboration/D005-interpretive-hospitality.md) invites incompatible readings, not another score.

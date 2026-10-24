@@ -34,3 +34,7 @@ P005 and E001-S add a matched-intervention bound and finite stochastic sweep. Th
 ## Edition 0.4.0
 
 P006 and D002 reorient the entry points toward relational becoming and answerable continuity. Edition metadata is not a tag or release. The protocol is proposed, not executed; external packet prepared, not posted. Remote contents and commit metadata must be checked before reporting publication. Website source is updated; native Wiki and hosting activation remain pending.
+
+## Edition 0.5.0 review — 2026-10-24
+
+P007 and D005 extend the philosophical and interpretive entry points; source website navigation is maintained. Available connector inventory supports files, Git objects, issues, PRs and Actions; it exposes no native Wiki writer, Pages activation, About/topics mutation or release creation. No new feature activation is claimed. Edition 0.5.0 is not a GitHub tag or release. Independent model review remains pending. O006's submission form requires author contact details; external packet prepared, nothing sent. Verify remote content and commit identity before reporting publication.

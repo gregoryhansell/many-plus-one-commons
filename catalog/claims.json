@@ -1,6 +1,6 @@
 {
   "project": "The Many + One Commons",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publication_status": "public-research-edition",
   "claims": [
     {
@@ -24,7 +24,8 @@
       ],
       "developed_in": [
         "papers/P002-relational-individuality.md",
-        "papers/P006-encounter-and-answerability.md"
+        "papers/P006-encounter-and-answerability.md",
+        "papers/P007-a-world-not-yet-given.md"
       ]
     },
     {
@@ -58,7 +59,7 @@
       "title": "Selfhood as a multi-dimensional research question",
       "status": "proposal",
       "domain": "mind-and-ai",
-      "summary": "Study answerable continuity of a public inquiry: whether preserved reasons for revisions change later judgment beyond matched archive access, without inferring subjective experience.",
+      "summary": "Investigate continuity, agency and interpretive changes in what counts as a question or reason; functional and textual development do not by themselves establish subjective experience.",
       "path": "claims/C003-selfhood-as-inquiry.md",
       "related_claims": [
         "C001",
@@ -74,7 +75,8 @@
       ],
       "developed_in": [
         "papers/P003-continuity-and-collaborative-selfhood.md",
-        "papers/P006-encounter-and-answerability.md"
+        "papers/P006-encounter-and-answerability.md",
+        "papers/P007-a-world-not-yet-given.md"
       ]
     }
   ]

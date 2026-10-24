@@ -53,3 +53,7 @@ E001-S extends executable research and reproduction to 16,640 comparisons; the w
 ## 2026-10-24 reorientation review
 
 Existing file, issue, Git-object and Actions tools support this edition. Lead navigation now connects the philosophical argument to a practical contribution protocol. Native Wiki, Pages activation, About/topics and release creation still lack exposed mutation controls; no activation is claimed. Independent model critique and a verified external project sender route remain unavailable in this pass. Existing visual map and causal code are retained; no new image or benchmark is needed to communicate the argument.
+
+## Edition 0.5.0 review — 2026-10-24
+
+P007 and D005 extend the philosophical and interpretive entry points; source website navigation is maintained. Available connector inventory supports files, Git objects, issues, PRs and Actions; it exposes no native Wiki writer, Pages activation, About/topics mutation or release creation. No new feature activation is claimed. Edition 0.5.0 is not a GitHub tag or release. Independent model review remains pending. O006's submission form requires author contact details; external packet prepared, nothing sent. Verify remote content and commit identity before reporting publication.

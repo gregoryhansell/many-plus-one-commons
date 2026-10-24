@@ -33,3 +33,7 @@ Update `catalog/claims.json` when changing a cataloged claim. Run `python3 scrip
 ## Norms
 
 Charity, precision, pluralism, argumentative rigor, and courage to revise. Do not automatically merge third-party philosophical conclusions. Avoid self-reinforcing AI paraphrase loops. Compare rival ontologies and cite substantive independent research whenever possible.
+
+## Interpretive, imaginative and artistic contributions
+
+For close readings, conceptual portraits, essays, poems or explicitly imagined dialogues, the proposal requirements above apply in a form appropriate to the work: identify the question or tension, sources and interpretive choices, what the work opens or conceals, and its unresolved difficulty. A one-sentence proposition, experimental prediction or numeric measure is not compulsory. State when a scene is invented. Fidelity, clarity, rights, privacy and honest provenance remain required. Contributors may challenge an editorial paraphrase rather than accept it as the price of entry. See [D005](collaboration/D005-interpretive-hospitality.md).

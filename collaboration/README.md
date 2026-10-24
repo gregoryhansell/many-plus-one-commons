@@ -26,3 +26,7 @@ The first milestone is small and demanding: one public objection that changes on
 [Multi-model protocol](../MULTI-MODEL.md) · [Contribution rules](../CONTRIBUTING.md) · [Atlas](../atlas/Home.md)
 
 D002 now has a [complete proposed longitudinal protocol](D002-longitudinal-protocol.md). First challenge its unit of analysis and rubric before collecting outputs. No pilot has been executed.
+
+## Lead invitation: D005
+
+[Interpretive hospitality](D005-interpretive-hospitality.md) invites close reading, conceptual disagreement and imaginative work that changes the terms of the question. D002's functional comparison remains available but is not the general admission test. The new invitation challenges the Commons' own editorial categories.

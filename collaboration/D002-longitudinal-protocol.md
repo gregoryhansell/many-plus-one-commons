@@ -39,3 +39,7 @@ Copy [the blank record](../research/templates/encounter.md). Required fields: pu
 ## Initial state and invitation
 
 No longitudinal observations have been collected. No independent reviewers are enrolled. Existing issue 1 is the public return path. First requested deliverable: a counterexample in which this rubric rewards sophisticated editing while failing to capture collaborative agency, plus a proposed correction. Completion requires a concrete case and a changed criterion, not endorsement.
+
+## Scope clarification — edition 0.5.0
+
+This unexecuted design addresses functional inheritance under specified controls. It is not a universal method for philosophical development. [P007](../papers/P007-a-world-not-yet-given.md) and [D005](D005-interpretive-hospitality.md) open interpretive questions that can change the categories a later protocol uses.

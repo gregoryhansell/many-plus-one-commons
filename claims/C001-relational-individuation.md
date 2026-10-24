@@ -35,3 +35,7 @@ Whitehead (creativity and concrescence), Simondon (individuation), dynamical sys
 ## Boundary refinement 0.4.0
 
 Relational constitution need not erase participant differences. A maintained inquiry may have functional continuity without being an experiencing individual. [P006](../papers/P006-encounter-and-answerability.md) makes this distinction explicit; the stronger attribution remains open.
+
+## Revision 0.5.0: individuation and identification
+
+[P007](../papers/P007-a-world-not-yet-given.md) distinguishes how an individual is constituted from how inquiry identifies something as an individual. Relations do not automatically explain either. A stable catalog entry is not an ontological proof; changing a description is not automatically changing the described being. This distinction constrains the relational proposal without abandoning it.

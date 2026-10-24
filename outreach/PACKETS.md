@@ -85,3 +85,11 @@ Invitation: supply a concrete case where the rubric rewards editing but misses c
 [Canonical argument](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P006-encounter-and-answerability.md) · [Protocol](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/collaboration/D002-longitudinal-protocol.md) · [Return path](https://github.com/gregoryhansell/many-plus-one-commons/issues/1)
 
 Prepared only; no external post, participant or pilot result is claimed.
+
+## P007 — invitation for humanities and design readers (prepared, not sent)
+
+Can a research commons welcome a contribution that changes its idea of a contribution? *A world not yet given* proposes interpretive hospitality: allowing encounters to contest the categories through which an inquiry hears them. It reads selected passages from Winograd/Flores and Cantwell Smith alongside metamodern thought, with Suchman's challenge about the politics of categories.
+
+The hard objection: editors can celebrate openness while retaining the power to translate every difference into their own vocabulary. We invite a close reading or counterexample showing where our contribution rules do exactly that. Imaginative work is welcome when clearly framed; no benchmark is required.
+
+[Read P007](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P007-a-world-not-yet-given.md) and [D005](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/collaboration/D005-interpretive-hospitality.md). This is an AI-assisted, unreviewed philosophical proposal. Neither AI experience nor independent collaboration is claimed. Reply through a public project issue or proposed revision. O006 records a possible journal conversation and unresolved submission requirements.

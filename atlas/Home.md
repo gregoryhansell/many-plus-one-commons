@@ -1,6 +1,8 @@
 # The living atlas
 
-**Current lead inquiry:** [P006: What an encounter changes](../papers/P006-encounter-and-answerability.md) and [D002: longitudinal protocol](../collaboration/D002-longitudinal-protocol.md). Meaning, relational individuation, value and collaborative agency lead; causal-scale mathematics supports specific questions.
+**Lead inquiry:** [P007: A world not yet given](../papers/P007-a-world-not-yet-given.md). Interpretive hospitality: encounters may change the categories through which a commons recognizes questions and contributions; answerable continuity remains useful but is not the sole form of development.
+
+**Supporting continuity inquiry:** [P006: What an encounter changes](../papers/P006-encounter-and-answerability.md) and [D002: longitudinal protocol](../collaboration/D002-longitudinal-protocol.md). Meaning, relational individuation, value and collaborative agency lead; causal-scale mathematics supports specific questions.
 
 A public entrance to the Many + One Commons: relational reality, emergence, consciousness, collaborative selfhood, and the unfinished work of becoming.
 

@@ -63,3 +63,7 @@ Evidence against answerable continuity would include disappearance of transfer u
 - S009: Searle (1980), [Minds, Brains, and Programs](https://peterasaro.org/courses/MMP/Searle%2C%20BBS%20MindsBrainsPrograms.html). Opening argument and systems reply read; hosted OCR of a penultimate draft with acknowledged errors, not the final article and commentary dossier.
 
 All accessed 2026-10-24. The three sources disagree in scope and commitments; none is cited as having established the present proposal. See [source register](../research/SOURCES.md).
+
+## Subsequent development
+
+[P007](P007-a-world-not-yet-given.md), edition 0.5.0, argues that preserved reasons are insufficient when the admissible kinds of reason are fixed in advance. It retains answerable continuity while opening the criteria of contribution to interpretive challenge. This paper remains version 1.0; this notice records a subsequent argument, not a retroactive change to its thesis.

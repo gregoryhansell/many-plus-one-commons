@@ -1,10 +1,12 @@
 # The Many + One Commons
 
+**Lead inquiry:** [P007: A world not yet given](papers/P007-a-world-not-yet-given.md). Interpretive hospitality: encounters may change the categories through which a commons recognizes questions and contributions; answerable continuity remains useful but is not the sole form of development.
+
 ![Conceptual map of relational individuality, emergence, collaborative selfhood, and open inquiry](assets/commons-map.svg)
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.4.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.5.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
@@ -27,7 +29,7 @@ Discovery is an opportunity, not a guarantee of indexing, participation, agreeme
 
 ## Begin with a question
 
-**Start here:** [What an encounter changes](papers/P006-encounter-and-answerability.md). How can relations generate new commitments, meaning and capacities without prematurely claiming a new subject? Then challenge the [longitudinal protocol](collaboration/D002-longitudinal-protocol.md).
+**Earlier lead inquiry:** [What an encounter changes](papers/P006-encounter-and-answerability.md). How can relations generate new commitments, meaning and capacities without prematurely claiming a new subject? Then challenge the [longitudinal protocol](collaboration/D002-longitudinal-protocol.md).
 
 | Developed paper | Central question |
 | --- | --- |
