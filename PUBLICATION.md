@@ -8,6 +8,8 @@ The repository is public and its GitHub connection can publish commits. The init
 
 Edition 0.3.0 adds three substantive papers, the atlas, and a collaboration directory. Its files become published when their commit is verified on the remote branch; the edition number alone is not a GitHub release or tag. Independent multi-model reviews remain pending.
 
+The 0.3.0 update is verified at commit `32ba8687bf14f91970042d0c79dbe077a3fc053d`: all 25 changed-file hashes match, and author and committer use noreply metadata. [D002 is open as issue 1](https://github.com/gregoryhansell/many-plus-one-commons/issues/1). Edition 0.3.1 adds executed toy calculation E001 with reproducible code and results. No AI continuity experiment or independent multi-model review is claimed.
+
 | Capability | Prepared here | Activation evidence required |
 | --- | --- | --- |
 | Public repository corpus | Claims, questions, policies, catalogs | Verify the remote commit and public visibility |

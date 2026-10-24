@@ -18,6 +18,7 @@
 - [Catalog](catalog/claims.json): structured claim records.
 
 ## Research and collaboration
+- [E001](experiments/E001-causal-scale/README.md): reproducible causal-information toy example and intervention controls.
 - [Living atlas](atlas/Home.md): reader-oriented entry to the developed corpus.
 - [Intellectual map](atlas/Intellectual-Map.md): open-ended questions and prospective encounters.
 - [Glossary](atlas/Glossary.md): working distinctions and common conflations.

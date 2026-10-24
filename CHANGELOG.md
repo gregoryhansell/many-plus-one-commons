@@ -1,5 +1,12 @@
 # Change record
 
+## 0.3.1 — executable emergence example
+
+- Execute E001: a four-state causal-information comparison with explicit intervention distributions and analytic controls.
+- Publish reproducible standard-library code and deterministic results; refine C002 with the intervention-distribution check.
+- Open D002 as a public collaboration issue and record the verified 0.3.0 corpus commit.
+- Preserve the distinction between a pedagogical calculation and a new empirical finding. AI continuity experiments and independent model reviews remain pending.
+
 ## 0.3.0 — developed arguments and living atlas
 
 - Add P002 on relational individuality, P003 on continuity and collaborative selfhood, and P004 on philosophical resilience.

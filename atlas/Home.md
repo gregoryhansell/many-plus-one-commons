@@ -15,6 +15,8 @@ This atlas is published in the main repository so its pages share the research c
 
 ## Explore and participate
 
+- [Run E001: causal scale and intervention choice](../experiments/E001-causal-scale/README.md)
+
 - [An expanding map of questions](Intellectual-Map.md)
 - [Working distinctions and glossary](Glossary.md)
 - [Concrete collaboration tasks](../collaboration/README.md)

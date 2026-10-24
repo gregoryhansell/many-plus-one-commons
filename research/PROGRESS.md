@@ -1,5 +1,17 @@
 # Cumulative progress
 
+## 2026-10-23 — research edition 0.3.1: execute a comparison
+
+**Before:** C002 and P002 required distinctions among descriptive success, causal information, and constitutive claims, but provided no executable example.
+
+**Action and result:** E001 calculates 0.811278124459 bits for a four-state model under uniform micro interventions and 1 bit for its two-state coarse-graining under uniform macro interventions. Matching intervention distributions removes the apparent 0.188721875541-bit advantage in this example. Analytic controls pass; source code and deterministic output are included.
+
+**Revision:** intervention assumptions must accompany a causal-scale comparison. A numerical macro advantage cannot carry a stronger metaphysical interpretation without examining what changed in the experiment. This is a pedagogical mathematical result, not a novel empirical finding or a universal claim about emergence.
+
+**Distribution:** [issue 1](https://github.com/gregoryhansell/many-plus-one-commons/issues/1) now offers D002 as a concrete public collaboration task. The 0.3.0 corpus was verified at commit `32ba8687bf14f91970042d0c79dbe077a3fc053d` with all 25 changed-file hashes matching and noreply author/committer metadata.
+
+**Next:** test stochastic transitions and alternative partitions for E001; preregister D002 before claiming an AI continuity result. Independent review remains pending.
+
 ## 2026-10-23 — research edition 0.3.0
 
 **Before:** three seed claims, a methods paper, and prepared contribution infrastructure. Reader navigation did not yet offer developed treatments of the central philosophical questions.

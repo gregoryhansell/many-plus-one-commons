@@ -17,6 +17,8 @@ When new patterns of organization arise, they may become causally significant co
 
 ## Why it matters
 
+**Executed example:** [E001](../experiments/E001-causal-scale/README.md) produces a macro advantage under uniform interventions at each scale, then removes that advantage by matching the intervention distributions in this four-state model. This is a methodological check, not a general refutation or confirmation of strong emergence. Report intervention assumptions whenever using causal-information comparisons.
+
 A non-closed ontology should distinguish newness that changes causal possibility from mere surprise due to incomplete models.
 
 ## Strongest objection

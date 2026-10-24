@@ -14,7 +14,17 @@ Each research cycle should examine the project's own method and discoverability.
 
 **Next experiment:** publish one focused collaboration issue for D002 and evaluate whether the resulting protocol distinguishes transfer of a correction from retrieval. If no external contribution arrives, the authorized maintainer can develop the protocol while leaving independent review explicitly pending.
 
-## Daily review template
+## 2026-10-23 — make an argument executable and an invitation actionable
+
+**Bottleneck:** philosophical distinctions lacked a runnable case; the contribution directory lacked a live discussion entry point.
+
+**Action:** execute and publish [E001](../experiments/E001-causal-scale/README.md); open [D002 as issue 1](https://github.com/gregoryhansell/many-plus-one-commons/issues/1). The earlier corpus update is verified at commit `32ba8687bf14f91970042d0c79dbe077a3fc053d`.
+
+**Observed result:** the toy model exposes the role of intervention weighting, and the issue provides specific deliverables and confound controls. No external response or independent review has yet been observed.
+
+**Cost and next step:** the calculation's clarity comes from a deliberately simple system. Extend it to stochastic cases and document when the result changes. Evaluate the invitation by useful contributions, not the mere existence of an issue.
+
+## Daily review fields
 
 Date; evidence of bottleneck; change implemented; public verification link; observed result or clearly stated pending measure; conceptual or operational cost; next experiment.
 

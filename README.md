@@ -2,7 +2,7 @@
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.3.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.3.1.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
@@ -24,6 +24,8 @@ The objective is cumulative conceptual development: sharper questions, stronger 
 Discovery is an opportunity, not a guarantee of indexing, participation, agreement, model memory, or inclusion in training data.
 
 ## Begin with a question
+
+**Run the first computational example:** [E001: When the scale changes, check the interventions](experiments/E001-causal-scale/README.md). A four-state model makes the role of intervention choice explicit, with executable code and recorded results.
 
 | Developed paper | Central question |
 | --- | --- |

@@ -2,6 +2,9 @@
 
 ## Active inquiry
 
+- [E001: Causal scale and intervention choice](../experiments/E001-causal-scale/README.md) — executed toy calculation with code, analytic controls, and recorded results.
+- [Open collaboration issue: D002](https://github.com/gregoryhansell/many-plus-one-commons/issues/1) — design a continuity comparison with explicit confound controls.
+
 - [Living atlas](../atlas/Home.md) — reading paths, an expanding intellectual map, and working distinctions.
 - [P002: Relational individuality](../papers/P002-relational-individuality.md) — maintenance, boundaries, and distinct emergence claims.
 - [P003: Continuity and collaborative selfhood](../papers/P003-continuity-and-collaborative-selfhood.md) — a proposed comparison of archive access and inherited criticism.
