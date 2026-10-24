@@ -24,6 +24,8 @@ A contemporary substance ontology or structural realism may acknowledge all the 
 
 ## What would change the view?
 
+**Research refinement (0.3.0):** every application should specify what is maintained, which processes maintain it, its relevant timescale and boundary, and a strong comparison account. Relational dependence alone does not identify an individual. [P002 develops this requirement](../papers/P002-relational-individuality.md).
+
 An adequate alternative ontology providing equal or better explanations of persistence, agency, and relational constitution with fewer contestable assumptions, or a demonstration that process priority introduces distinctive contradictions.
 
 ## Related intellectual trajectories

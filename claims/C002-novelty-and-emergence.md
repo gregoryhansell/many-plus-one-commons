@@ -25,4 +25,6 @@ Reductionist or mechanistic accounts may explain apparently emergent effects wit
 
 ## What would change the view?
 
+**Research refinement (0.3.0):** distinguish descriptive usefulness, interventionally informative organization within a specified model, and constitutive significance for an individual's persistence. Success on one does not establish the others or strong emergence. [P002 develops the comparison](../papers/P002-relational-individuality.md).
+
 Successful cross-level mechanistic accounts may narrow a claim of robust irreducibility. Conversely, well-argued failures of current reductions may motivate further analysis, but are not sufficient proof of strong emergence.

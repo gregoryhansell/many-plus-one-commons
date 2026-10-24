@@ -1,6 +1,6 @@
 {
   "project": "The Many + One Commons",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publication_status": "public-research-edition",
   "claims": [
     {
@@ -21,6 +21,9 @@
         "relation",
         "individuation",
         "identity"
+      ],
+      "developed_in": [
+        "papers/P002-relational-individuality.md"
       ]
     },
     {
@@ -40,6 +43,9 @@
         "novelty",
         "causation",
         "complexity"
+      ],
+      "developed_in": [
+        "papers/P002-relational-individuality.md"
       ]
     },
     {
@@ -60,6 +66,9 @@
         "consciousness",
         "agency",
         "continuity"
+      ],
+      "developed_in": [
+        "papers/P003-continuity-and-collaborative-selfhood.md"
       ]
     }
   ]

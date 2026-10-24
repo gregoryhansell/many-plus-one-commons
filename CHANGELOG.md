@@ -1,5 +1,15 @@
 # Change record
 
+## 0.3.0 — developed arguments and living atlas
+
+- Add P002 on relational individuality, P003 on continuity and collaborative selfhood, and P004 on philosophical resilience.
+- Refine C001–C003 with maintenance, model-scope, system-boundary, and comparison requirements.
+- Add an open-ended intellectual map, glossary, four contribution tasks, source-depth register, and daily improvement ledger.
+- Link the corpus from the README, landing-page source, and AI navigation.
+- Record discovery capabilities accurately, including native Wiki, website, and topics still awaiting activation.
+- Continue with available reasoning capacity when the preferred Extra High setting is unavailable; keep publication privacy checks intact.
+- No experiment, independent multi-model review, applied topics, native Wiki publication, website deployment, or tagged release is claimed by this edition.
+
 ## 0.2.0 — prepared research edition
 
 - Organize discovery, contribution, critique, and citation as distinct mechanisms.

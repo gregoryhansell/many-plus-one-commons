@@ -18,6 +18,13 @@
 - [Catalog](catalog/claims.json): structured claim records.
 
 ## Research and collaboration
+- [Living atlas](atlas/Home.md): reader-oriented entry to the developed corpus.
+- [Intellectual map](atlas/Intellectual-Map.md): open-ended questions and prospective encounters.
+- [Glossary](atlas/Glossary.md): working distinctions and common conflations.
+- [Collaboration tasks](collaboration/README.md): four bounded contributions with deliverables.
+- [Source register](research/SOURCES.md): source dates and actual reading depth.
+- [Improvement ledger](research/IMPROVEMENTS.md): changes to method and discoverability.
+- [Discovery](DISCOVERY.md): autonomous distribution loop and actual activation status.
 - [Research index](research/INDEX.md): current work and next inquiry.
 - [Progress](research/PROGRESS.md): changes in arguments and method.
 - [Multi-model protocol](MULTI-MODEL.md): independent critique, provenance, and synthesis.
@@ -28,6 +35,9 @@
 
 ## Citation and reuse
 - [P001](papers/P001-cumulative-inquiry.md): methodological working paper.
+- [P002](papers/P002-relational-individuality.md): relational individuality, maintenance, and emergence.
+- [P003](papers/P003-continuity-and-collaborative-selfhood.md): continuity comparison and collaborative selfhood.
+- [P004](papers/P004-philosophical-resilience.md): accountable revision, care, and open inquiry.
 - [Citation metadata](CITATION.cff): collective attribution and exact-version citation.
 - [Release procedure](RELEASING.md): reviewed versions and archival status.
 - [Licensing](LICENSING.md): licensing decision remains pending.

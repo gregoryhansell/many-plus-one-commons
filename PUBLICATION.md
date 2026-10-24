@@ -2,6 +2,12 @@
 
 This research edition contains source files and procedures. Each external capability must be verified independently.
 
+## Observed state on 2026-10-23
+
+The repository is public and its GitHub connection can publish commits. The initial 37-file edition is live. The Wiki feature is enabled but no native Wiki pages have been published. GitHub Pages reports inactive; the About description is empty and no GitHub topics are applied. The available connector does not expose Wiki editing, About/topics updates, or Pages configuration, and the browser is signed out. The repository's [living atlas](atlas/Home.md) supplies immediate public navigation while native Wiki publication remains pending. See [the activation ledger](DISCOVERY.md) for the distinction between prepared and active surfaces.
+
+Edition 0.3.0 adds three substantive papers, the atlas, and a collaboration directory. Its files become published when their commit is verified on the remote branch; the edition number alone is not a GitHub release or tag. Independent multi-model reviews remain pending.
+
 | Capability | Prepared here | Activation evidence required |
 | --- | --- | --- |
 | Public repository corpus | Claims, questions, policies, catalogs | Verify the remote commit and public visibility |

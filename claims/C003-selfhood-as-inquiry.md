@@ -25,4 +25,6 @@ A multidimensional framework may redescribe capacities without explaining why or
 
 ## What would change the view?
 
+**Research refinement (0.3.0):** specify whether a claim concerns a model instance, session, model-plus-archive system, or community. Test inherited correction against retrieval and context-length effects. Do not treat behavioral continuity as a consciousness measure. [P003 proposes a comparison](../papers/P003-continuity-and-collaborative-selfhood.md); no result is yet reported.
+
 Evidence that dimensions are fundamentally inseparable, or a defensible alternative account that better explains boundaries and conditions of selfhood.

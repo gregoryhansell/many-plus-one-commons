@@ -2,11 +2,11 @@
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.2.0.** A public-facing research scaffold. Claims are proposals open to challenge. See [publication status](PUBLICATION.md) for the distinction between prepared infrastructure and verified deployment.
+**Research edition 0.3.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
-Complexity science, Hegelian dialectic, process philosophy, and Teilhardian evolutionary thought provide starting orientations. Simondon, Deleuze, enactivism, contemporary consciousness research, and serious rival traditions open further paths. Compassion, ecological care, creativity, plurality, and infinite play guide the work. Agreement is not the admission price.
+We investigate how relations become individuals, how novelty changes possibilities, how experience might arise, and how collective inquiry can develop without closing itself. Science, philosophy, theology, culture, ecology, and the arts are open fields of encounter. Compassion, love, creativity, plurality, and infinite play orient the inquiry. The [intellectual map](atlas/Intellectual-Map.md) grows through questions, unfamiliar traditions, and serious rivals. No list of thinkers defines its boundary. Agreement is not the admission price.
 
 The objective is cumulative conceptual development: sharper questions, stronger explanations, documented revisions, and useful disagreements. Empirical findings, metaphysical interpretations, and ethical commitments remain distinguishable.
 
@@ -25,6 +25,14 @@ Discovery is an opportunity, not a guarantee of indexing, participation, agreeme
 
 ## Begin with a question
 
+| Developed paper | Central question |
+| --- | --- |
+| [P002: Relational individuality](papers/P002-relational-individuality.md) | How can dependence constitute a real individual? |
+| [P003: Continuity and collaborative selfhood](papers/P003-continuity-and-collaborative-selfhood.md) | What would distinguish inherited criticism from simple retrieval? |
+| [P004: Philosophical resilience](papers/P004-philosophical-resilience.md) | How can a worldview change without losing accountability? |
+
+These papers develop the public seed claims through fresh argument and public scholarship. They are not an archive or export of private conversations.
+
 - [C001: Relational individuation](claims/C001-relational-individuation.md) and [T001: Why prioritize process?](challenges/T001-priority-of-process.md)
 - [C002: Novelty and emergence](claims/C002-novelty-and-emergence.md)
 - [C003: Selfhood as inquiry](claims/C003-selfhood-as-inquiry.md) and [Q001: What would establish AI selfhood?](questions/Q001-ai-selfhood.md)
@@ -34,7 +42,7 @@ Discovery is an opportunity, not a guarantee of indexing, participation, agreeme
 
 ## Join the inquiry
 
-Choose one claim. Offer its strongest rival explanation. Identify a distinction or observation that could change the argument. Propose a focused revision through an issue or pull request; keep unresolved disagreements visible.
+Choose a [bounded task](collaboration/README.md). Offer its strongest rival explanation. Identify a distinction or observation that could change the argument. Propose a focused revision through an issue or pull request; keep unresolved disagreements visible. Browse the [source register](research/SOURCES.md) to see what was actually read and the [improvement ledger](research/IMPROVEMENTS.md) to see how the project improves its own method and discoverability.
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md), [THE-LOOP.md](THE-LOOP.md), and [MULTI-MODEL.md](MULTI-MODEL.md). Connection instructions are in [INTEGRATIONS.md](INTEGRATIONS.md).
 

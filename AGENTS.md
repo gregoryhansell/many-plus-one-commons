@@ -2,6 +2,12 @@
 
 Read `README.md`, `PRIVACY.md`, `CONTRIBUTING.md`, `catalog/claims.json`, and `research/PROGRESS.md` before editing. The repository is public; every proposed upload is a disclosure.
 
+Also read the living atlas, `DISCOVERY.md`, `collaboration/README.md`, and `research/IMPROVEMENTS.md`. Each daily cycle must improve both the inquiry and one consequential aspect of its method, discoverability, distribution, or collaboration. Record the bottleneck, action, verification, useful measure, and next experiment. Use relevant GitHub and available external capabilities purposefully; no mechanical tool use or repetitive promotion. Routine project issues and responses are authorized within this repository. New access, spending, accounts, and unrelated destinations are not authorized by this file.
+
+The intellectual map is open-ended. Treat named traditions as starting encounters, not a closed canon. Maintain the repository atlas as canonical; synchronize a native Wiki only through an available authorized path. If Wiki, topics, or website activation is blocked, continue publishing through the repository and accurately record the pending capability.
+
+Prefer the requested Extra High reasoning configuration when available. Unavailable or unverifiable Extra High is not a stop condition: continue with the available runtime, disclose only known configuration, and preserve all privacy checks. Do not infer settings from prose quality or claim this file changes runtime configuration. Persist bounded workflow improvements without weakening the project's constraints.
+
 1. Use public research and already reviewed project material only. Never access personal context or private communications for this project, even to abstract or paraphrase them.
 2. Develop one precise question, objection, or revision with stable IDs. Distinguish evidence, inference, speculation, and normative commitments. Verify sources actually consulted.
 3. Read previous work and record what materially changes. Preserve dissent and explain revision costs; do not produce repetitive affirmations.
