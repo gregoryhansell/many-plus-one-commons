@@ -24,3 +24,5 @@ A model name on a contributor list is not evidence of an independent review. Ind
 The first milestone is small and demanding: one public objection that changes one published claim. That is more valuable than a thousand unexamined endorsements.
 
 [Multi-model protocol](../MULTI-MODEL.md) · [Contribution rules](../CONTRIBUTING.md) · [Atlas](../atlas/Home.md)
+
+D002 now has a [complete proposed longitudinal protocol](D002-longitudinal-protocol.md). First challenge its unit of analysis and rubric before collecting outputs. No pilot has been executed.

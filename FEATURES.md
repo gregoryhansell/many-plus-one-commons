@@ -49,3 +49,7 @@ Complete useful actions with existing access. A feature requiring an unavailable
 ## 2026-10-24 capability review
 
 E001-S extends executable research and reproduction to 16,640 comparisons; the workflow collects both result files. A new proof-and-code packet links the research to causal-abstraction readers. Current connector inventory still exposes repository files, Git objects, issues, PRs, and Actions but no native Wiki writer, Pages configuration, About/topics editing, or release creation. Those activation gaps remain unresolved; no independent model endpoint or privacy-safe external publishing session was established. No feature activation is inferred from a prepared file.
+
+## 2026-10-24 reorientation review
+
+Existing file, issue, Git-object and Actions tools support this edition. Lead navigation now connects the philosophical argument to a practical contribution protocol. Native Wiki, Pages activation, About/topics and release creation still lack exposed mutation controls; no activation is claimed. Independent model critique and a verified external project sender route remain unavailable in this pass. Existing visual map and causal code are retained; no new image or benchmark is needed to communicate the argument.

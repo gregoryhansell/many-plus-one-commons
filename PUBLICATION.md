@@ -30,3 +30,7 @@ Hosting settings are not changed by adding these files. A public GitHub reposito
 ## Edition 0.3.3
 
 P005 and E001-S add a matched-intervention bound and finite stochastic sweep. This edition number is not a native GitHub release or tag. Verify the commit and workflow independently. Native Wiki and website activation remain pending.
+
+## Edition 0.4.0
+
+P006 and D002 reorient the entry points toward relational becoming and answerable continuity. Edition metadata is not a tag or release. The protocol is proposed, not executed; external packet prepared, not posted. Remote contents and commit metadata must be checked before reporting publication. Website source is updated; native Wiki and hosting activation remain pending.

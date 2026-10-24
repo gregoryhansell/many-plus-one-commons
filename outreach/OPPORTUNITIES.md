@@ -37,3 +37,9 @@ Source pages were opened and read for the participation information above. The n
 Checked 2026-10-24: [official community page](https://www.ce.swarma.org/) describes reading groups on emergence, machine learning, information decomposition, and coarse-graining. Exact overlap: P005/C002's distinction between matched information and useful intervention. Offer the E001-S executable comparison and ask for a physically justified realization kernel. The page describes its workshop as a closed forum; its displayed March 27 date has no verified year. Do not treat this as an upcoming event or an open call.
 
 Access/status: public research lead only; no verified open submission endpoint or authorized community session identified. Posting rules and project sender route unresolved. No contact made; no follow-up due. Use the P005 packet below only after a permitted route is verified; do not post to unrelated repositories.
+
+## O005 — Enactive social cognition and institutions
+
+Checked 2026-10-24: [official research overview](https://ezequieldipaolo.net/research/enactive_cognition/social-cognition/) documents the participatory sense-making program; [Werner's 2024 article](https://link.springer.com/article/10.1007/s11229-024-04569-0) connects it to institutions. Exact overlap: C003/P006's proposed boundary between a practice with functional continuity and a subject. Useful contribution: D002 and a request for a case where coordination succeeds but answerability fails.
+
+Status: public research conversation identified; no public contribution endpoint or posting rules established on these pages, no verified project sender route. No contact made and no follow-up due. Next: inspect an explicitly open workshop or community call before considering submission; do not treat author publication pages as invitations to promotional contact. The P006 communication packet is prepared in PACKETS.md, not sent.

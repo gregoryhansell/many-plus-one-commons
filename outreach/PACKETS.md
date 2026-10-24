@@ -73,3 +73,15 @@ We worked out the matched-joint bound and tested 16,640 four-state comparisons, 
 **Invitation:** propose a physical or computational case, specify its feasible interventions and target, and supply an executable fixed-budget comparison. A well-argued objection to the model is equally welcome.
 
 **Canonical argument and code:** [P005](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P005-matched-interventions.md). Return analysis to [issue 2](https://github.com/gregoryhansell/many-plus-one-commons/issues/2), naming the exact commit. Prepared 2026-10-24; not externally posted or submitted. No external response or endorsement claimed.
+
+## P006 — Can an encounter change what an inquiry must justify?
+
+A research commons should preserve more than its latest answer. We propose tracking how objections alter commitments, how those changes transfer to new cases, and whether dissent remains consequential. This studies a developing practice without declaring a new conscious subject.
+
+Strongest objection: sophisticated editing and ordinary context use may explain the entire benefit. Our proposed longitudinal comparison therefore matches archive information and budgets and records failures as carefully as improvements.
+
+Invitation: supply a concrete case where the rubric rewards editing but misses collaborative agency, then propose a better criterion. Enactive readers: challenge the move from biological autonomy to a public practice. AI practitioners: inspect the archive controls. Philosophical readers: challenge the relation between answerability and recognition.
+
+[Canonical argument](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P006-encounter-and-answerability.md) · [Protocol](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/collaboration/D002-longitudinal-protocol.md) · [Return path](https://github.com/gregoryhansell/many-plus-one-commons/issues/1)
+
+Prepared only; no external post, participant or pilot result is claimed.

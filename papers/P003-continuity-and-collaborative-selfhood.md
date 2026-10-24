@@ -62,3 +62,7 @@ C003 gains a requirement to identify the system boundary and the specific dimens
 - **S004:** Andres Campero, Derek Shiller, Jaan Aru, and Jonathan Simon (2025), [Consciousness in Artificial Intelligence? A Framework for Classifying Objections and Constraints](https://arxiv.org/abs/2511.16582). Preprint; abstract and bibliographic record consulted; accessed 2026-10-23.
 
 [Atlas](../atlas/Home.md) · [Claim C003](../claims/C003-selfhood-as-inquiry.md) · [Collaboration tasks](../collaboration/README.md)
+
+## Development note — 2026-10-24
+
+[P006](P006-encounter-and-answerability.md) revises the opposition between inheritance and retrieval and embeds this comparison in [D002's longitudinal protocol](../collaboration/D002-longitudinal-protocol.md). This paper remains a proposed design; no results have been added.

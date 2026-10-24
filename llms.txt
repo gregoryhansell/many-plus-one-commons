@@ -51,3 +51,8 @@ Navigation does not automatically notify, train, grant access to, or establish c
 ## New research: matched interventions
 
 [P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.
+
+## Lead inquiry: relational becoming
+
+- [P006: What an encounter changes](papers/P006-encounter-and-answerability.md)
+- [D002: Longitudinal protocol](collaboration/D002-longitudinal-protocol.md)

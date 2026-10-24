@@ -4,7 +4,7 @@
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.3.3.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.4.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
@@ -27,7 +27,7 @@ Discovery is an opportunity, not a guarantee of indexing, participation, agreeme
 
 ## Begin with a question
 
-**Run the first computational example:** [E001: When the scale changes, check the interventions](experiments/E001-causal-scale/README.md). A four-state model makes the role of intervention choice explicit, with executable code and recorded results.
+**Start here:** [What an encounter changes](papers/P006-encounter-and-answerability.md). How can relations generate new commitments, meaning and capacities without prematurely claiming a new subject? Then challenge the [longitudinal protocol](collaboration/D002-longitudinal-protocol.md).
 
 | Developed paper | Central question |
 | --- | --- |
@@ -64,6 +64,6 @@ Run `python3 scripts/validate.py` and `python3 scripts/privacy_check.py`. Run th
 
 Use [CITATION.cff](CITATION.cff), a claim or paper ID, and the exact commit or release version. See [RELEASING.md](RELEASING.md). A release is not peer review. Broad reuse licensing remains pending; see [LICENSING.md](LICENSING.md).
 
-## New research: matched interventions
+## Supporting investigation: matched interventions
 
-[P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.
+[P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) disciplines one causal claim in C002. It does not settle emergence, meaning, consciousness, or the direction of the Commons.

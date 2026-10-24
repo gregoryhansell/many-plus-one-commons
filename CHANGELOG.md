@@ -42,3 +42,7 @@ Three seed claims, one challenge, one open question, catalog, contributor templa
 ## 0.3.3 — 2026-10-24
 
 Add P005's matched-joint bound and E001-S stochastic-family checks; narrow C002; deepen primary-source reading; extend reproduction and artifact collection; refresh navigation and external research invitation. Research edition only, not a published tag or release.
+
+## 0.4.0 — 2026-10-24
+
+Develop P006 and D002; revise C001/C003; center philosophical navigation and document source-derived objections, conceptual costs, and unexecuted research status.

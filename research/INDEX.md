@@ -1,5 +1,7 @@
 # Research index
 
+**Current lead inquiry:** [P006: What an encounter changes](../papers/P006-encounter-and-answerability.md) and [D002: longitudinal protocol](../collaboration/D002-longitudinal-protocol.md). Meaning, relational individuation, value and collaborative agency lead; causal-scale mathematics supports specific questions.
+
 ## Active inquiry
 
 - [E001: Causal scale and intervention choice](../experiments/E001-causal-scale/README.md) — executed toy calculation with code, analytic controls, and recorded results.
@@ -20,8 +22,8 @@
 
 ## Next contribution
 
-Prioritize a preregistered packet and scoring rubric for D002, or a concrete biological case for D001 using primary scholarship and a strong mechanistic rival. Deepen full-text reading of S002–S004 before making detailed technical claims. Do not announce experimental results before running the comparison.
+Prioritize an independent challenge to D002’s proposed rubric, then freeze its source packet and transfer cases before collecting outputs. Deepen full-text reading of S002–S004 before making detailed technical claims. Do not announce experimental results before running the comparison.
 
-## New research: matched interventions
+## Supporting research: matched interventions
 
 [P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.

@@ -1,6 +1,6 @@
 {
   "project": "The Many + One Commons",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "publication_status": "public-research-edition",
   "claims": [
     {
@@ -23,7 +23,8 @@
         "identity"
       ],
       "developed_in": [
-        "papers/P002-relational-individuality.md"
+        "papers/P002-relational-individuality.md",
+        "papers/P006-encounter-and-answerability.md"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "title": "Selfhood as a multi-dimensional research question",
       "status": "proposal",
       "domain": "mind-and-ai",
-      "summary": "AI selfhood should be analyzed along distinct dimensions of continuity, agency, self-modeling, governance, recognition, and possible experience without presupposing consciousness.",
+      "summary": "Study answerable continuity of a public inquiry: whether preserved reasons for revisions change later judgment beyond matched archive access, without inferring subjective experience.",
       "path": "claims/C003-selfhood-as-inquiry.md",
       "related_claims": [
         "C001",
@@ -72,7 +73,8 @@
         "continuity"
       ],
       "developed_in": [
-        "papers/P003-continuity-and-collaborative-selfhood.md"
+        "papers/P003-continuity-and-collaborative-selfhood.md",
+        "papers/P006-encounter-and-answerability.md"
       ]
     }
   ]

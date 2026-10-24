@@ -31,3 +31,7 @@ An adequate alternative ontology providing equal or better explanations of persi
 ## Related intellectual trajectories
 
 Whitehead (creativity and concrescence), Simondon (individuation), dynamical systems and autopoiesis. These connections are research directions, not claims that the authors share a single identical doctrine.
+
+## Boundary refinement 0.4.0
+
+Relational constitution need not erase participant differences. A maintained inquiry may have functional continuity without being an experiencing individual. [P006](../papers/P006-encounter-and-answerability.md) makes this distinction explicit; the stronger attribution remains open.

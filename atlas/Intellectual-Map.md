@@ -28,3 +28,7 @@ No author is required for membership. No favorite thinker is exempt from critici
 ## New research: matched interventions
 
 [P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.
+
+## Encounter, recognition, and answerability — 0.4.0
+
+[P006](../papers/P006-encounter-and-answerability.md) brings enactive interaction, Hegelian recognition, and Searle's objection into a specific tension. Coordination does not establish reciprocal normative standing; neither establishes subjective experience. Next: can a practice preserve dissent while changing its criteria of judgment? Connect this to collective life, care, play and evolutionary theology without deriving moral worth from complexity alone.

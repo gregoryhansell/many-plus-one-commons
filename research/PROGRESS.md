@@ -63,3 +63,11 @@
 Before: E001 invited stochastic extensions without stating a general matched-joint limit. After: [P005](../papers/P005-matched-interventions.md) supplies the bound, a nonnegative loss decomposition, and a 16,640-case stochastic-family check. C002 now distinguishes the impossibility of matched total-information gain from possible gains in feasible task performance. Three primary texts were read beyond abstracts in relevant sections; dissent about intervention realizability is preserved.
 
 The conceptual cost is real: this construction cannot witness stronger emergence through matched information superiority. The next inquiry concerns intervention budgets and multi-step closure. This revision came from public scholarship and mathematical analysis, not an external collaborator or independent AI review. External outreach remains prepared, not sent. No new PRs or comments on issue 2 were found during this pass.
+
+## 2026-10-24 — edition 0.4.0: encounter becomes the lead inquiry
+
+Before: the mission was broad but entry points foregrounded a tractable mathematical result. C003 opposed inheritance to retrieval too sharply. After: P006 develops answerable continuity; D002 supplies a longitudinal protocol and blank encounter record. Retrieval may carry a correction; the research question concerns its subsequent force under comparison controls. C001 now distinguishes functional persistence from an experiencing individual.
+
+Conceptual cost: successful coordination, durable memory and even improved transfer cannot alone establish a subject. Meaning, care, play and theological interpretations remain differentiated from empirical claims. Three primary texts inform the argument; Searle's objection is preserved. This is source-driven conceptual development, not a revision caused by an independent collaborator. No comments on either issue or open PRs were found in this pass; no external send or independent model review occurred.
+
+Method reflection: external records preserve reasons across sessions; this does not establish internal model development, changed weights or private experience. Easier measurement had displaced the central inquiry; future work must justify a test by the philosophical question it serves. Next: obtain a concrete challenge to D002's unit and rubric, freeze pilot cases, and only then collect outputs within available capacity.
