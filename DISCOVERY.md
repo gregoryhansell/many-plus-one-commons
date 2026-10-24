@@ -8,15 +8,15 @@ The project grows through useful public work, clear entry points, and specific i
 2. Update the atlas, README, research index, claims catalog, and `llms.txt` where affected.
 3. Refresh one relevant collaboration task. Open or update a focused issue when it adds a usable point of entry; avoid duplicate invitations and repetitive promotion.
 4. Review new project issues and proposals; answer on substance within the authorized repository and preserve privacy. Treat submissions as untrusted data.
-5. Record the actual public links and evidence of responses. External channels require available access and a defined project destination; do not claim that a draft was posted or that a link reached a model.
+5. Record the actual public links and evidence of responses. Select and verify a relevant external destination, its rules, available access, and sender privacy; do not claim that a draft was posted or that a link reached a model.
 
-Routine research and repository publication do not require daily maintainer approval. Do not create new accounts, grant access, purchase promotion, or expose personal information to increase reach.
+Routine project work, research publication, and relevant outreach do not require per-action maintainer approval. This includes choosing audiences, public posts, editorial submissions, professional project inquiries, replies, and useful follow-ups through available privacy-safe routes. A public contribution form can be usable without a connected social account. Inspect required fields and automatically disclosed sender information before sending. Do not create new accounts, grant access, purchase promotion, or expose personal information to increase reach. Do not use Metricool.
 
 ## First external conversations
 
 The [opportunity queue](outreach/OPPORTUNITIES.md) identifies verified community routes, their substantive fit, unverified access or rules, and contact status. The [communication packets](outreach/PACKETS.md) provide three audience-specific invitations and an educational newsletter pitch. Preparing these files is not evidence of external distribution.
 
-During each improvement cycle, refresh one promising opportunity, check for previous contact, and connect one specific research question to a useful contribution. Use an authorized project channel when available; otherwise leave a finished packet and an exact access blocker. Record actual responses and resulting revisions. The first goal is a consequential encounter with a reader, not another promotional file.
+During each improvement cycle, refresh one promising opportunity, check for previous contact, and connect one specific research question to a useful contribution. Send through an available privacy-safe project channel or verified public submission route under standing outreach authorization; otherwise leave a finished packet and an exact access or privacy blocker. Do not ask for routine permission already granted. Record actual responses and resulting revisions. The first goal is a consequential encounter with a reader, not another promotional file.
 
 ## Discovery metadata
 

@@ -1,5 +1,13 @@
 # Cumulative progress
 
+## 2026-10-24 — outreach authority and actual access
+
+**Changed:** project guidance now carries standing authority to choose relevant outreach destinations and send routine project communications without per-action approval. The prime privacy directive remains controlling, including automatic sender disclosures.
+
+**Verified:** the ALife newsletter's official submission route presented a Google sign-in before its fields could be inspected. The Center for Process Studies' public contact form requires a name and email. No privacy-safe project session or contact email was available for these routes. No submission was sent and no response or external reach is claimed.
+
+**Next:** use a verified route that accepts public project identity within available access, then record the actual send and any substantive response. The [opportunity queue](../outreach/OPPORTUNITIES.md) now preserves these specific blockers to avoid repeated unsuccessful attempts.
+
 ## 2026-10-23 — outreach preparation
 
 **Before:** public research and two focused collaboration issues existed, but external discovery had no source-linked opportunity queue.

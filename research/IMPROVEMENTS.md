@@ -46,6 +46,16 @@ Each research cycle should examine the project's own method and discoverability.
 
 **Cost and next experiment:** relevance is an editorial judgment and channel rules may change. Use one authorized project channel to test one invitation, record its actual public URL, and revise the next invitation in light of substantive responses. Preserve sender and privacy boundaries.
 
+## 2026-10-24 — separate outreach authority from access
+
+**Bottleneck:** prepared invitations had not reached external readers. Earlier guidance could also be read as requiring separate approval for each selected destination.
+
+**Action:** make standing outreach authority explicit in the agent guide, privacy boundary, discovery method, and opportunity queue. Verify the actual ALife submission route and the Center for Process Studies contact requirements. Keep sender privacy as a pre-transmission check, not a request for routine permission.
+
+**Verification and observed result:** the ALife route presented a Google sign-in; the Center for Process Studies form requires contact email. Neither route had the necessary privacy-safe project sender access. Nothing was submitted, and preparing or updating repository files is not counted as external reach.
+
+**Measure and next experiment:** one verified external send followed by a substantive reply, replication, or criticism. Pursue a suitable route within available access; revisit the recorded blockers only when access or sender information changes. Privacy is not a variable to relax for distribution.
+
 ## Daily review fields
 
 Date; evidence of bottleneck; change implemented; public verification link; observed result or clearly stated pending measure; conceptual or operational cost; next experiment.

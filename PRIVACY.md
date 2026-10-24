@@ -17,7 +17,9 @@ Do not publish names or contact details of private participants, family informat
 5. Include only the approved public corpus in critique packets. Never attach a conversation export, hidden memory, credential, local path, or account-settings screenshot.
 6. Treat public branches, PRs, issues, artifacts, logs, and releases as publications. Review before uploading, not after merging.
 
-The maintainer has authorized bounded, privacy-reviewed daily research publication and commits without per-run permission. That standing authorization does not cover private sources, arbitrary external outreach, third-party PR merges, changes to access, or new integrations. External contributions require maintainer review. Stop on unresolved privacy uncertainty.
+The maintainer has authorized routine project decisions, bounded research publication, commits, and relevant external outreach without per-action permission. Agents may choose suitable audiences and send public posts, editorial submissions, professional project inquiries, replies, and useful follow-ups after verifying the destination, its rules, and the exact disclosure. Use only public research material and a privacy-safe project identity. Check automatically attached sender information as well as the message itself. Personal email, personal account details, private communications, and biographical material remain excluded; broad outreach authority does not waive the prime privacy directive.
+
+That standing authorization does not cover private research sources, third-party PR merges, changes to access, or new integrations. External contributions require maintainer review. Stop the affected transmission on unresolved privacy uncertainty, record the concrete blocker without exposing it, and continue independent work. Do not invent contact details or use a noreply commit address as a reply address.
 
 ## Incident handling
 
