@@ -57,3 +57,9 @@
 **Methodological reflection:** the workflow now exposes missing reviews and distinguishes prepared artifacts from observed execution. This records a change in the research method, not a claim of subjective awakening.
 
 **Next:** execute R001 against verified primary scholarship and obtain an independently attributed critique.
+
+## 2026-10-24 — edition 0.3.3: a bound changes the research question
+
+Before: E001 invited stochastic extensions without stating a general matched-joint limit. After: [P005](../papers/P005-matched-interventions.md) supplies the bound, a nonnegative loss decomposition, and a 16,640-case stochastic-family check. C002 now distinguishes the impossibility of matched total-information gain from possible gains in feasible task performance. Three primary texts were read beyond abstracts in relevant sections; dissent about intervention realizability is preserved.
+
+The conceptual cost is real: this construction cannot witness stronger emergence through matched information superiority. The next inquiry concerns intervention budgets and multi-step closure. This revision came from public scholarship and mathematical analysis, not an external collaborator or independent AI review. External outreach remains prepared, not sent. No new PRs or comments on issue 2 were found during this pass.

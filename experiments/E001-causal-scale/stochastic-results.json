@@ -1,0 +1,55 @@
+{
+  "experiment": "E001-S",
+  "version": 1,
+  "scope": "256 deterministic maps mixed with uniform output noise; 13 strict nontrivial partitions",
+  "total_comparisons": 16640,
+  "tolerance": 1e-12,
+  "results": [
+    {
+      "noise": 0,
+      "comparisons": 3328,
+      "uniform_positive": 216,
+      "matched_positive": 0,
+      "max_uniform_gain": 0.188721875541,
+      "min_matched_gain": -2.0,
+      "max_matched_gain": 0.0
+    },
+    {
+      "noise": 0.1,
+      "comparisons": 3328,
+      "uniform_positive": 216,
+      "matched_positive": 0,
+      "max_uniform_gain": 0.098595747187,
+      "min_matched_gain": -1.496816268319,
+      "max_matched_gain": 0.0
+    },
+    {
+      "noise": 0.25,
+      "comparisons": 3328,
+      "uniform_positive": 144,
+      "matched_positive": 0,
+      "max_uniform_gain": 0.067519716341,
+      "min_matched_gain": -1.00660727099,
+      "max_matched_gain": 0.0
+    },
+    {
+      "noise": 0.5,
+      "comparisons": 3328,
+      "uniform_positive": 96,
+      "matched_positive": 0,
+      "max_uniform_gain": 0.034337198065,
+      "min_matched_gain": -0.451205059305,
+      "max_matched_gain": 0.0
+    },
+    {
+      "noise": 1,
+      "comparisons": 3328,
+      "uniform_positive": 0,
+      "matched_positive": 0,
+      "max_uniform_gain": 0.0,
+      "min_matched_gain": 0.0,
+      "max_matched_gain": 0.0
+    }
+  ],
+  "checks_passed": true
+}

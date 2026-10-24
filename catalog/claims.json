@@ -1,6 +1,6 @@
 {
   "project": "The Many + One Commons",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "publication_status": "public-research-edition",
   "claims": [
     {
@@ -31,7 +31,7 @@
       "title": "Novelty and emergence",
       "status": "proposal",
       "domain": "metaphysics-of-science",
-      "summary": "Novel patterns of organization may become causally significant conditions for later processes; this does not, by itself, establish strong emergence.",
+      "summary": "Novel organization may constrain later processes; matched-joint mutual information cannot increase under deterministic grouping, so scale gains require explicit intervention and task assumptions and do not establish strong emergence.",
       "path": "claims/C002-novelty-and-emergence.md",
       "related_claims": [
         "C001",
@@ -45,7 +45,8 @@
         "complexity"
       ],
       "developed_in": [
-        "papers/P002-relational-individuality.md"
+        "papers/P002-relational-individuality.md",
+        "papers/P005-matched-interventions.md"
       ],
       "experiments": [
         "experiments/E001-causal-scale/README.md"

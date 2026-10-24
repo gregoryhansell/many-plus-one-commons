@@ -13,3 +13,10 @@ recorded = json.loads((EXPERIMENT / "results.json").read_text())
 if actual != recorded:
     raise SystemExit("E001 output differs from the committed result; review the scientific change.")
 print("E001 reproduced exactly; analytic controls passed.")
+
+actual = json.loads(subprocess.check_output(
+    [sys.executable, str(EXPERIMENT / "stochastic_scale.py")], cwd=ROOT))
+recorded = json.loads((EXPERIMENT / "stochastic-results.json").read_text())
+if actual != recorded:
+    raise SystemExit("E001-S output differs from the committed result.")
+print("E001-S reproduced exactly; 16,640 matched comparisons and analytic controls passed.")

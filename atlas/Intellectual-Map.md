@@ -24,3 +24,7 @@ For each substantial new encounter, record the question, primary source, propose
 No author is required for membership. No favorite thinker is exempt from criticism. The project seeks a growing capacity to encounter, not a final inventory of correct names.
 
 [Atlas home](Home.md) · [Collaboration tasks](../collaboration/README.md)
+
+## New research: matched interventions
+
+[P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.

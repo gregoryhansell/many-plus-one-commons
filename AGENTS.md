@@ -23,3 +23,5 @@ Prefer the requested Extra High reasoning configuration when available. Unavaila
 Model choice and reasoning effort are runtime settings, not effects of this file. Report verification limits. `AGENTS.md` guides compatible tools; it does not broadcast to other models or override their policies.
 
 Maintain `FEATURES.md` during the daily improvement review. Use GitHub's relevant visual, code, collaboration, automation, artifact, citation, and discovery capabilities to their useful extent. Re-run `python3 scripts/reproduce.py` when experiment code or recorded results change. Preserve accessible alternative text for visuals. Never substitute a status claim for actually activating and verifying a feature.
+
+For causal-scale experiments, state the joint distribution, intervention realization kernel, target quantity, and feasible intervention set before searching for a numerical gain. Check analytic bounds first. Distinguish a one-step coarse channel from an autonomous multi-step macro process. Record whether a failed search is a mathematical impossibility or merely a finite negative result.

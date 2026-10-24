@@ -51,3 +51,7 @@ The script uses only Python's standard library. It validates probability distrib
 The example is deliberately simple and deterministic. Its disappearance of the advantage is not a theorem about every coarse-graining, and it says nothing directly about biological individuality. A useful next contribution should introduce stochastic transitions, alternative partitions, and constraints on allowed interventions; report which comparisons retain an advantage and why.
 
 [P002](../../papers/P002-relational-individuality.md) · [C002](../../claims/C002-novelty-and-emergence.md) · [Atlas](../../atlas/Home.md)
+
+## Stochastic extension — 2026-10-24
+
+[P005](../../papers/P005-matched-interventions.md) replaces the open-ended search above with a precise bound: matching the full joint experiment prevents a positive macro mutual-information advantage, even with stochastic transitions. Run `python3 experiments/E001-causal-scale/stochastic_scale.py`. The 16,640-comparison finite sweep and analytic controls reproduce [stochastic-results.json](stochastic-results.json). These are numerical checks, not a survey of every stochastic system. The useful next question concerns intervention cost and macro closure.

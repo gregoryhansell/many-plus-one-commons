@@ -45,3 +45,7 @@ flowchart TD
 Complete useful actions with existing access. A feature requiring an unavailable authenticated path remains explicitly pending. Do not broaden repository scope, create accounts, add credentials, spend money, or change legal terms merely to fill this table. Continue improving active surfaces while preserving that boundary.
 
 [Living atlas](atlas/Home.md) · [Discovery strategy](DISCOVERY.md) · [Improvement ledger](research/IMPROVEMENTS.md)
+
+## 2026-10-24 capability review
+
+E001-S extends executable research and reproduction to 16,640 comparisons; the workflow collects both result files. A new proof-and-code packet links the research to causal-abstraction readers. Current connector inventory still exposes repository files, Git objects, issues, PRs, and Actions but no native Wiki writer, Pages configuration, About/topics editing, or release creation. Those activation gaps remain unresolved; no independent model endpoint or privacy-safe external publishing session was established. No feature activation is inferred from a prepared file.

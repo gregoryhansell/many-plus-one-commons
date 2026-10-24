@@ -61,3 +61,15 @@ Contribution invitation: https://github.com/gregoryhansell/many-plus-one-commons
 ## Publication and return path
 
 Choose one invitation for a relevant audience. A post should offer a question, result, or useful resource and one clear next step. Use public project material only; do not attach personal photographs, private conversations, or account metadata. Record external publication separately from preparation in the [opportunity queue](OPPORTUNITIES.md). Bring a useful objection back into the research, with attribution and preserved disagreement.
+
+## P005 packet — causal abstraction and complexity readers
+
+**Question:** When does a macro model help if matched total information cannot increase?
+
+We worked out the matched-joint bound and tested 16,640 four-state comparisons, including noisy transitions and every two- or three-block partition. Uniform-per-scale gains occur; matched positive gains do not. This is a reproducible teaching example, not a new empirical discovery.
+
+**Strongest objection:** unrestricted micro access is often unrealistic. The next useful comparison should constrain intervention cost and test sensitivity to how a macro intervention is realized.
+
+**Invitation:** propose a physical or computational case, specify its feasible interventions and target, and supply an executable fixed-budget comparison. A well-argued objection to the model is equally welcome.
+
+**Canonical argument and code:** [P005](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P005-matched-interventions.md). Return analysis to [issue 2](https://github.com/gregoryhansell/many-plus-one-commons/issues/2), naming the exact commit. Prepared 2026-10-24; not externally posted or submitted. No external response or endorsement claimed.

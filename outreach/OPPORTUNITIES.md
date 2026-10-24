@@ -31,3 +31,9 @@ Avoid duplicate contact. Follow-ups should add a result or answer a response. Si
 Source pages were opened and read for the participation information above. The newsletter's official form was opened to check access; the Center for Process Studies' required contact fields were verified on its public page. No private communities were inspected and no outreach has been sent through these routes. Recheck a blocked route only when relevant access or sender information changes; continue with another suitable route or useful research work meanwhile.
 
 [Communication packets](PACKETS.md) · [Contribution tasks](../collaboration/README.md) · [Distribution method](../DISCOVERY.md)
+
+## O004 — Causal Emergence Community
+
+Checked 2026-10-24: [official community page](https://www.ce.swarma.org/) describes reading groups on emergence, machine learning, information decomposition, and coarse-graining. Exact overlap: P005/C002's distinction between matched information and useful intervention. Offer the E001-S executable comparison and ask for a physically justified realization kernel. The page describes its workshop as a closed forum; its displayed March 27 date has no verified year. Do not treat this as an upcoming event or an open call.
+
+Access/status: public research lead only; no verified open submission endpoint or authorized community session identified. Posting rules and project sender route unresolved. No contact made; no follow-up due. Use the P005 packet below only after a permitted route is verified; do not post to unrelated repositories.

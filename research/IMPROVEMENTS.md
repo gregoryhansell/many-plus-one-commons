@@ -63,3 +63,9 @@ Date; evidence of bottleneck; change implemented; public verification link; obse
 Consider GitHub navigation, About/topics, Wiki, Pages, issues/discussions, releases, citation metadata, feeds, machine-readable catalogs, and available external project destinations. Inspect actual tool capabilities. Preserve privacy and existing access scope. If one destination is blocked, continue useful work through an authorized working destination.
 
 Persist bounded refinements in project guidance so future contributors can use them. This ledger records public methodology, not private automation configuration or personal information.
+
+## 2026-10-24 — test the search question before expanding the search
+
+Bottleneck: the next experiment lacked a theorem-level feasibility check; reproduction covered only a single deterministic example. Implemented: P005 states the precise joint distribution and bound; E001-S enumerates 16,640 comparisons; the reproduction script and Actions artifact collection now cover both results. Navigation links the argument and code. Measure: exact reproducibility and zero matched-bound violations within tolerance, with positive uniform-per-scale controls. Independent replication remains pending.
+
+Method improvement: future scale comparisons must state their joint distribution, intervention realization, target quantity, and feasible intervention set before searching for superiority. Next experiment: compare task accuracy at fixed intervention budget, then test sensitivity to realization kernels. Public verification surface: [P005](../papers/P005-matched-interventions.md) and the repository Actions tab.

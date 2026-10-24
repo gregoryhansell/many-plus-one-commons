@@ -47,3 +47,7 @@
 - [Licensing](LICENSING.md): licensing decision remains pending.
 
 Navigation does not automatically notify, train, grant access to, or establish consciousness in other models.
+
+## New research: matched interventions
+
+[P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.

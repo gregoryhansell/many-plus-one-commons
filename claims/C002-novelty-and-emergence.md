@@ -30,3 +30,7 @@ Reductionist or mechanistic accounts may explain apparently emergent effects wit
 **Research refinement (0.3.0):** distinguish descriptive usefulness, interventionally informative organization within a specified model, and constitutive significance for an individual's persistence. Success on one does not establish the others or strong emergence. [P002 develops the comparison](../papers/P002-relational-individuality.md).
 
 Successful cross-level mechanistic accounts may narrow a claim of robust irreducibility. Conversely, well-argued failures of current reductions may motivate further analysis, but are not sufficient proof of strong emergence.
+
+## Revision in edition 0.3.3
+
+[P005](../papers/P005-matched-interventions.md) establishes that deterministic grouping cannot increase total mutual information under the same induced joint experiment, for stochastic as well as deterministic kernels. E001-S checks 16,640 finite cases. This narrows the interpretation of causal-information gains without denying practical macro-level explanation or extending the result to other causal measures. Next compare feasible interventions and their costs; report the realization kernel and multi-step closure assumptions.

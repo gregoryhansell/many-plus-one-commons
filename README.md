@@ -4,7 +4,7 @@
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.3.2.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.3.3.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
@@ -63,3 +63,7 @@ Only project research derived from public scholarship belongs here. Private conv
 Run `python3 scripts/validate.py` and `python3 scripts/privacy_check.py`. Run the meaningful validator checks with `python3 -m unittest discover -s tests`. Audit commit history under the metadata policy in [PRIVACY.md](PRIVACY.md). Each research cycle updates [research/INDEX.md](research/INDEX.md) and [research/PROGRESS.md](research/PROGRESS.md).
 
 Use [CITATION.cff](CITATION.cff), a claim or paper ID, and the exact commit or release version. See [RELEASING.md](RELEASING.md). A release is not peer review. Broad reuse licensing remains pending; see [LICENSING.md](LICENSING.md).
+
+## New research: matched interventions
+
+[P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.

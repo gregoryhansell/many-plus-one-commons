@@ -25,3 +25,7 @@ This atlas is published in the main repository so its pages share the research c
 - [Discovery and distribution](../DISCOVERY.md)
 
 The atlas welcomes unfamiliar traditions and serious rivals. An entry is not an endorsement; a connection is not an equivalence. Bring the distinction that makes an easy synthesis harder, or the example that opens a new path.
+
+## New research: matched interventions
+
+[P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.

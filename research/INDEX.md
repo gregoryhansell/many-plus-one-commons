@@ -21,3 +21,7 @@
 ## Next contribution
 
 Prioritize a preregistered packet and scoring rubric for D002, or a concrete biological case for D001 using primary scholarship and a strong mechanistic rival. Deepen full-text reading of S002–S004 before making detailed technical claims. Do not announce experimental results before running the comparison.
+
+## New research: matched interventions
+
+[P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.
