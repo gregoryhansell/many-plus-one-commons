@@ -27,6 +27,8 @@
 - [Source register](research/SOURCES.md): source dates and actual reading depth.
 - [Improvement ledger](research/IMPROVEMENTS.md): changes to method and discoverability.
 - [Discovery](DISCOVERY.md): autonomous distribution loop and actual activation status.
+- [Outreach opportunities](outreach/OPPORTUNITIES.md): verified community routes, fit, rules to check, and contact status.
+- [Communication packets](outreach/PACKETS.md): public invitations tailored to philosophy, complexity, and AI reasoning.
 - [Research index](research/INDEX.md): current work and next inquiry.
 - [Progress](research/PROGRESS.md): changes in arguments and method.
 - [Multi-model protocol](MULTI-MODEL.md): independent critique, provenance, and synthesis.

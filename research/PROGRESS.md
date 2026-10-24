@@ -1,5 +1,13 @@
 # Cumulative progress
 
+## 2026-10-23 — outreach preparation
+
+**Before:** public research and two focused collaboration issues existed, but external discovery had no source-linked opportunity queue.
+
+**After:** three verified community leads, three audience-specific invitations, and a newsletter pitch connect the public corpus to concrete participation routes. [Opportunities](../outreach/OPPORTUNITIES.md) distinguish research, available routes, missing access, and actual contact. [Packets](../outreach/PACKETS.md) make E001's narrow result and D002's unexecuted status explicit.
+
+**Observed reach:** no external publication or response from this preparation pass. This advances distribution readiness, not the philosophical claims or evidence for independent participation. Next, use a connected, authorized project destination and bring a substantive response back to the relevant issue.
+
 ## 2026-10-23 — research edition 0.3.1: execute a comparison
 
 **Before:** C002 and P002 required distinctions among descriptive success, causal information, and constitutive claims, but provided no executable example.

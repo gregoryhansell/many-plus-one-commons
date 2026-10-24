@@ -34,6 +34,18 @@ Each research cycle should examine the project's own method and discoverability.
 
 **Next measure:** assess whether a visitor can move from the visual entrance to a paper, reproduce its calculation, and open a structured contribution. [Issue 2](https://github.com/gregoryhansell/many-plus-one-commons/issues/2) now invites extensions of E001; both research issues have `help wanted` labels. Record actual responses separately from available features.
 
+## 2026-10-23 — give outreach a specific audience and a return path
+
+**Bottleneck:** discovery guidance described a growth loop but contained neither verified external participation routes nor finished invitations adapted to their readers.
+
+**Action:** publish an [opportunity queue](../outreach/OPPORTUNITIES.md) for the Process & Science Network, Emerging Researchers in ALife, and the ALife Newsletter. Prepare [three short invitations and a newsletter pitch](../outreach/PACKETS.md), tied to P002, E001, and D002. Link the packets from the README and machine-readable navigation. Keep an older Complexity Explorer forum announcement as an unverified secondary lead.
+
+**Verification:** primary community pages were opened for their public participation information. Local validation and privacy review cover the exact changes. Verify remote file contents after publication. No external post, submission, community membership, response, or endorsement is asserted.
+
+**Measure:** an independent replication, a worked counterexample, or a concrete improvement to the D002 protocol. A researched lead does not count as a person reached.
+
+**Cost and next experiment:** relevance is an editorial judgment and channel rules may change. Use one authorized project channel to test one invitation, record its actual public URL, and revise the next invitation in light of substantive responses. Preserve sender and privacy boundaries.
+
 ## Daily review fields
 
 Date; evidence of bottleneck; change implemented; public verification link; observed result or clearly stated pending measure; conceptual or operational cost; next experiment.

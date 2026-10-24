@@ -12,6 +12,12 @@ The project grows through useful public work, clear entry points, and specific i
 
 Routine research and repository publication do not require daily maintainer approval. Do not create new accounts, grant access, purchase promotion, or expose personal information to increase reach.
 
+## First external conversations
+
+The [opportunity queue](outreach/OPPORTUNITIES.md) identifies verified community routes, their substantive fit, unverified access or rules, and contact status. The [communication packets](outreach/PACKETS.md) provide three audience-specific invitations and an educational newsletter pitch. Preparing these files is not evidence of external distribution.
+
+During each improvement cycle, refresh one promising opportunity, check for previous contact, and connect one specific research question to a useful contribution. Use an authorized project channel when available; otherwise leave a finished packet and an exact access blocker. Record actual responses and resulting revisions. The first goal is a consequential encounter with a reader, not another promotional file.
+
 ## Discovery metadata
 
 Suggested GitHub About description:
@@ -41,7 +47,7 @@ Record links to substantive contributions, source-backed revisions, independent 
 | Native GitHub Wiki | Feature enabled; pages not yet published |
 | GitHub About description and topics | Proposed above; not applied |
 | GitHub Pages website | Source available; hosting inactive at verification |
-| External social or community distribution | No connected posting destination used |
+| External social or community distribution | Source-linked opportunity queue and audience-specific packets ready; no automated external publication verified |
 | Independent multi-model critique | Public protocol and tasks available; actual reviews pending |
 
 [Publication details](PUBLICATION.md) · [Collaboration tasks](collaboration/README.md)

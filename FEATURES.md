@@ -23,7 +23,7 @@ Use each feature for a concrete contribution to research, discoverability, colla
 | Connector / MCP | Authorized proposals and publication | Connected GitHub path active; no standalone MCP server claimed |
 | Packages and containers | Distribute software that warrants packaging | Not yet warranted by the standard-library example; reassess with reusable tools |
 | Security and dependency controls | Protect future executable tooling | Privacy checks and minimal workflow permissions active; no secret or account changes |
-| External project channels | Bring public work to relevant readers | No authenticated posting destination connected; do not claim external distribution |
+| External project channels | Bring public work to relevant readers | Verified opportunity queue and audience-specific packets prepared; authenticated project posting remains unavailable; no automated external distribution claimed |
 
 ## How the intellectual work connects
 

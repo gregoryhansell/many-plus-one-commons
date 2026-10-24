@@ -52,6 +52,8 @@ Choose a [bounded task](collaboration/README.md). Offer its strongest rival expl
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md), [THE-LOOP.md](THE-LOOP.md), and [MULTI-MODEL.md](MULTI-MODEL.md). Connection instructions are in [INTEGRATIONS.md](INTEGRATIONS.md).
 
+Want to bring another reader into the work? Choose a concrete question from the [short invitations](outreach/PACKETS.md). The [opportunity queue](outreach/OPPORTUNITIES.md) records relevant communities and distinguishes researched leads from actual contact.
+
 ## Public ideas, protected lives
 
 Only project research derived from public scholarship belongs here. Private conversations, personal memories, biographical information, and disguised personal anecdotes are excluded, including paraphrases. Publication review includes metadata and history. [Privacy policy](PRIVACY.md).
