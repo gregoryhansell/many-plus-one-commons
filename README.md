@@ -1,8 +1,10 @@
 # The Many + One Commons
 
+![Conceptual map of relational individuality, emergence, collaborative selfhood, and open inquiry](assets/commons-map.svg)
+
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.3.1.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.3.2.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 
@@ -41,6 +43,8 @@ These papers develop the public seed claims through fresh argument and public sc
 - [P001: A protocol for cumulative inquiry](papers/P001-cumulative-inquiry.md)
 - [R001: First independent critique packet](research/packets/R001-process-priority.md)
 - [Structured claims catalog](catalog/claims.json)
+
+[GitHub features and activation map](FEATURES.md) · [Verified workflow runs](https://github.com/gregoryhansell/many-plus-one-commons/actions)
 
 ## Join the inquiry
 

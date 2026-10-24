@@ -1,5 +1,12 @@
 # Change record
 
+## 0.3.2 — visual entry and executable contribution workflow
+
+- Add an original SVG research map to the README and landing-page source.
+- Add specialized issue forms for experiment replication and independent reviews, with direct atlas/task entry points.
+- Require E001 reproduction in GitHub Actions and preserve verified results as a downloadable workflow artifact.
+- Add a feature-by-feature activation map, including explicit native Wiki, topics, hosting, and integration blockers.
+
 ## 0.3.1 — executable emergence example
 
 - Execute E001: a four-state causal-information comparison with explicit intervention distributions and analytic controls.

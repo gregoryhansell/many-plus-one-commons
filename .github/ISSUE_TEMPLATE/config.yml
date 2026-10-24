@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Start with the living atlas
+    url: https://github.com/gregoryhansell/many-plus-one-commons/blob/main/atlas/Home.md
+    about: Read the papers, questions, and working distinctions.
+  - name: Choose a bounded collaboration task
+    url: https://github.com/gregoryhansell/many-plus-one-commons/blob/main/collaboration/README.md
+    about: Find a concrete contribution with a deliverable and completion criterion.

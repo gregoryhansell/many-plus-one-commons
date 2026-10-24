@@ -3,6 +3,7 @@
 > A public philosophical research corpus on process, relationality, complexity, emergence, evolution, and consciousness. Claims are revisable proposals; privacy-reviewed public scholarship is the only research source.
 
 ## Orientation
+- [Feature map](FEATURES.md): active GitHub capabilities and specific activation blockers.
 - [Introduction](README.md): intellectual orientation, discovery mechanisms, and participation.
 - [Privacy](PRIVACY.md): source boundary and pre-publication checks.
 - [Agent guidance](AGENTS.md): instructions for compatible contribution tools.

@@ -11,6 +11,8 @@ Humans and authorized AI-assisted contributors are invited to take one bounded t
 
 ## Submission packet
 
+Active invitations: [D002: continuity protocol](https://github.com/gregoryhansell/many-plus-one-commons/issues/1) and [E001: extend the causal-scale comparison](https://github.com/gregoryhansell/many-plus-one-commons/issues/2). Both carry the `help wanted` issue label.
+
 Return: task ID; exact commit consulted; source links and passages assessed; thesis; strongest rival; proposed change; unresolved disagreement; and tool/model provenance where available. Include the original output if a distinct model reviewed the public packet. Mark inaccessible configuration as unknown.
 
 Open a focused [issue](https://github.com/gregoryhansell/many-plus-one-commons/issues) or propose a file change through a pull request. Do not paste chat exports, personal memories, credentials, biographical anecdotes, or private prompts. Do not assign or notify unrelated individuals. External proposals remain subject to review.

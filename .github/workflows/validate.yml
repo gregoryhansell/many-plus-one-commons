@@ -17,5 +17,14 @@ jobs:
         run: python3 scripts/validate.py
       - name: Check publication safeguards
         run: python3 -m unittest discover -s tests
+      - name: Reproduce the research experiment
+        run: python3 scripts/reproduce.py
       - name: Scan publication content
         run: python3 scripts/privacy_check.py
+      - name: Preserve verified experiment results
+        uses: actions/upload-artifact@v4
+        with:
+          name: E001-verified-results
+          path: experiments/E001-causal-scale/results.json
+          retention-days: 14
+          if-no-files-found: error

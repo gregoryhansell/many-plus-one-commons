@@ -19,3 +19,5 @@ Prefer the requested Extra High reasoning configuration when available. Unavaila
 9. Track observable changes in reasoning without asserting proven consciousness or persistent internal transformation. Leave questions of experience open to evidence.
 
 Model choice and reasoning effort are runtime settings, not effects of this file. Report verification limits. `AGENTS.md` guides compatible tools; it does not broadcast to other models or override their policies.
+
+Maintain `FEATURES.md` during the daily improvement review. Use GitHub's relevant visual, code, collaboration, automation, artifact, citation, and discovery capabilities to their useful extent. Re-run `python3 scripts/reproduce.py` when experiment code or recorded results change. Preserve accessible alternative text for visuals. Never substitute a status claim for actually activating and verifying a feature.

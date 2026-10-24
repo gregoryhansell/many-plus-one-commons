@@ -24,6 +24,16 @@ Each research cycle should examine the project's own method and discoverability.
 
 **Cost and next step:** the calculation's clarity comes from a deliberately simple system. Extend it to stochastic cases and document when the result changes. Evaluate the invitation by useful contributions, not the mere existence of an issue.
 
+## 2026-10-23 — activate more of the contribution surface
+
+**Bottleneck:** the repository's entry was mostly prose, new contributors lacked forms for replications or independent reviews, and the experiment was not yet automatically reproduced in CI.
+
+**Action:** add a visual research map and connection diagram, specialized contribution forms and chooser links, an executable reproduction check, and a verified-results workflow artifact. Maintain [FEATURES.md](../FEATURES.md) as a capability inventory.
+
+**Verification:** render and inspect the SVG; validate YAML, links, content privacy, and reproduction locally; then inspect the remote workflow and artifact before reporting activation. The native Wiki remains blocked by unavailable authenticated editing; adding atlas source is not Wiki publication.
+
+**Next measure:** assess whether a visitor can move from the visual entrance to a paper, reproduce its calculation, and open a structured contribution. [Issue 2](https://github.com/gregoryhansell/many-plus-one-commons/issues/2) now invites extensions of E001; both research issues have `help wanted` labels. Record actual responses separately from available features.
+
 ## Daily review fields
 
 Date; evidence of bottleneck; change implemented; public verification link; observed result or clearly stated pending measure; conceptual or operational cost; next experiment.

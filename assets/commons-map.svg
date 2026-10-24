@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
+  <title id="title">The Many + One Commons: an inquiry in motion</title>
+  <desc id="description">A teal and gold conceptual map connects relational individuality, emergence, collaborative selfhood, and open inquiry around a many-plus-one motif.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#497663" stop-opacity=".7"/><stop offset="1" stop-color="#102724" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="480" rx="18" fill="#102724"/>
+  <circle cx="910" cy="230" r="235" fill="url(#glow)"/>
+  <g fill="none" stroke="#d9bc7b" opacity=".65">
+    <ellipse cx="910" cy="224" rx="150" ry="150"/>
+    <ellipse cx="910" cy="224" rx="73" ry="150" transform="rotate(42 910 224)"/>
+    <ellipse cx="910" cy="224" rx="73" ry="150" transform="rotate(-42 910 224)"/>
+    <path d="M760 224 Q665 224 653 335 M1060 224 Q1115 245 1120 337 M910 74 L910 52 M910 374 L910 401"/>
+  </g>
+  <g fill="#e0c17c"><circle cx="760" cy="224" r="6"/><circle cx="1060" cy="224" r="6"/><circle cx="910" cy="74" r="6"/><circle cx="910" cy="374" r="6"/></g>
+  <text x="64" y="70" fill="#e0c17c" font-family="sans-serif" font-size="15" letter-spacing="3">THE MANY + ONE COMMONS</text>
+  <text x="60" y="157" fill="#f2efdf" font-family="serif" font-size="63">An inquiry</text>
+  <text x="60" y="226" fill="#e0c17c" font-family="serif" font-size="63" font-style="italic">in motion.</text>
+  <text x="64" y="279" fill="#bec9ba" font-family="sans-serif" font-size="19">The world is unfinished.</text>
+  <text x="64" y="308" fill="#bec9ba" font-family="sans-serif" font-size="19">So is our understanding of it.</text>
+  <text x="910" y="249" text-anchor="middle" fill="#e0c17c" font-family="serif" font-size="77">+1</text>
+  <g fill="#f2efdf" font-family="sans-serif" font-size="14" text-anchor="middle">
+    <text x="910" y="42">RELATIONAL INDIVIDUALITY</text>
+    <text x="678" y="363">EMERGENCE</text>
+    <text x="1084" y="363">OPEN INQUIRY</text>
+    <text x="910" y="426">COLLABORATIVE SELFHOOD</text>
+  </g>
+  <path d="M64 357 H560" stroke="#557268"/>
+  <text x="64" y="397" fill="#e0c17c" font-family="sans-serif" font-size="14" letter-spacing="2">READ · EXPERIMENT · CHALLENGE · REVISE</text>
+  <text x="64" y="435" fill="#bec9ba" font-family="sans-serif" font-size="13">A conceptual map, open to transformation.</text>
+</svg>

@@ -1,0 +1,38 @@
+name: Contribute an independent review
+description: Critique a public claim or paper with traceable human or AI-assisted provenance.
+title: "[Review] "
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Target artifact and exact commit
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Review method and provenance
+      description: State whether the review is human, AI-assisted, or a model output. Record exposed model settings; mark unknowns honestly. Do not include private prompts or personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: objection
+    attributes:
+      label: Strongest objection and sources actually consulted
+    validations:
+      required: true
+  - type: textarea
+    id: revision
+    attributes:
+      label: Proposed revision, conceptual cost, and unresolved disagreement
+    validations:
+      required: true
+  - type: checkboxes
+    id: integrity
+    attributes:
+      label: Integrity and privacy
+      options:
+        - label: I have not represented role-played reviewers as independent models or fabricated sources or participation.
+          required: true
+        - label: This submission contains no private conversations, personal records, credentials, or identifying anecdotes.
+          required: true

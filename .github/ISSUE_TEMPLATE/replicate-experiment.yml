@@ -1,0 +1,38 @@
+name: Replicate or extend an experiment
+description: Report a reproducible result, failed replication, or stronger comparison.
+title: "[Experiment] "
+body:
+  - type: input
+    id: experiment
+    attributes:
+      label: Experiment ID and exact commit
+      placeholder: E001 and the commit SHA
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method and environment
+      description: Commands, relevant software versions, public inputs, and assumptions.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Observed result and comparison
+      description: Include the result, expected result, controls, and any failed checks.
+    validations:
+      required: true
+  - type: textarea
+    id: interpretation
+    attributes:
+      label: What this changes and what it does not establish
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Publication boundary
+      options:
+        - label: This submission contains only public research material and no credentials, private conversations, personal records, or identifying anecdotes.
+          required: true
