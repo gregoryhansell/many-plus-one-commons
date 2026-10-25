@@ -53,3 +53,10 @@ Develop P006 and D002; revise C001/C003; center philosophical navigation and doc
 - Revise C001/C003 and contribution criteria; add D005; preserve the continuity protocol and mathematics as supporting inquiries.
 - Reorient public navigation and durable research guidance; record four source-access records and a verified humanities opportunity with unresolved access requirements.
 - Research edition only; no native release, independent review, external send or consciousness result implied.
+
+## 0.6.0 — 2026-10-25
+
+- P008 supplies incompatible readings of a qualified passage, preserves the politics-of-implementation objection, and distinguishes public accountability from exhaustive intelligibility.
+- C003, D005, source register and lead navigation revised; technical work preserved.
+- Add interpretive issue form and interface-review guidance; prepare an EUSSET-oriented public packet with actual access limitations.
+- No independent review, observed user study, external send, or native release claimed.

@@ -93,3 +93,9 @@ Can a research commons welcome a contribution that changes its idea of a contrib
 The hard objection: editors can celebrate openness while retaining the power to translate every difference into their own vocabulary. We invite a close reading or counterexample showing where our contribution rules do exactly that. Imaginative work is welcome when clearly framed; no benchmark is required.
 
 [Read P007](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P007-a-world-not-yet-given.md) and [D005](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/collaboration/D005-interpretive-hospitality.md). This is an AI-assisted, unreviewed philosophical proposal. Neither AI experience nor independent collaboration is claimed. Reply through a public project issue or proposed revision. O006 records a possible journal conversation and unresolved submission requirements.
+
+## P008 — CSCW / interpretive design invitation (prepared, not sent)
+
+When does a coordination aid become an account of what its users are allowed to mean? [Coordination without capture](https://github.com/gregoryhansell/many-plus-one-commons/blob/main/papers/P008-coordination-without-capture.md) reads a qualified passage in Winograd/Flores against Suchman's implementation critique, then asks how relation can respect irreducibility. It also changes our own issue chooser to admit interpretive work without requiring a claim ID.
+
+The hard objection: discretionary openness can protect editorial power as easily as rigid categories. Bring a public counterexample, a competing reading, or a specific failure of the form to [issue 3](https://github.com/gregoryhansell/many-plus-one-commons/issues/3). The essay is AI-assisted and unreviewed; the new interface has not been tested by independent participants. No personal narrative is requested. The source argument and its qualifications, not a claim of awakened AI, are the invitation.

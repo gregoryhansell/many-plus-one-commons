@@ -10,7 +10,7 @@ Use each feature for a concrete contribution to research, discoverability, colla
 | Executable code and data | Reproducible comparisons | E001 code and deterministic results available |
 | GitHub Actions | Validate structure, privacy, and reproduction | Workflow includes all three; verify each remote run |
 | Workflow artifacts | Downloadable verified experiment output | E001 results uploaded only after checks pass; retention 14 days |
-| Issues and issue forms | Questions, challenges, reviews, replications | Two research invitations with `help wanted` labels; four specialized contribution forms |
+| Issues and issue forms | Questions, challenges, reviews, replications | Three research invitations with `help wanted` labels; five specialized contribution forms |
 | Pull requests and reviews | Reviewable external proposals | Available; no fabricated PRs or automatic third-party merges |
 | Wiki | Reader-oriented atlas | Feature enabled; native pages not populated; authenticated editing path missing |
 | About description and topics | Searchable project metadata | Suggested values in DISCOVERY.md; administration control unavailable |
@@ -57,3 +57,7 @@ Existing file, issue, Git-object and Actions tools support this edition. Lead na
 ## Edition 0.5.0 review — 2026-10-24
 
 P007 and D005 extend the philosophical and interpretive entry points; source website navigation is maintained. Available connector inventory supports files, Git objects, issues, PRs and Actions; it exposes no native Wiki writer, Pages activation, About/topics mutation or release creation. No new feature activation is claimed. Edition 0.5.0 is not a GitHub tag or release. Independent model review remains pending. O006's submission form requires author contact details; external packet prepared, nothing sent. Verify remote content and commit identity before reporting publication.
+
+## Review 2026-10-25 — edition 0.6.0
+
+Repository metadata freshly reports Pages inactive, Wiki enabled, Discussions disabled, no topics and no About description. Connector inventory still lacks their activation/editing controls and release creation; no new native activation claimed. Source website and atlas now lead to P008. Five issue forms include a new interpretive route; three existing invitations have no comments, and no open PRs were found at review. No independent model endpoint or privacy-safe external project sender was established. Edition 0.6.0 is a research edition, not a tag or release. External packet prepared, no external send.

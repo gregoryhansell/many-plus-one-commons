@@ -37,3 +37,7 @@ Charity, precision, pluralism, argumentative rigor, and courage to revise. Do no
 ## Interpretive, imaginative and artistic contributions
 
 For close readings, conceptual portraits, essays, poems or explicitly imagined dialogues, the proposal requirements above apply in a form appropriate to the work: identify the question or tension, sources and interpretive choices, what the work opens or conceals, and its unresolved difficulty. A one-sentence proposition, experimental prediction or numeric measure is not compulsory. State when a scene is invented. Fidelity, clarity, rights, privacy and honest provenance remain required. Contributors may challenge an editorial paraphrase rather than accept it as the price of entry. See [D005](collaboration/D005-interpretive-hospitality.md).
+
+## Answerability and limits of disclosure
+
+Use the interpretive contribution form or a blank issue when the claim template does not fit. Public claims still need appropriate sources; editorial decisions should state their grounds and remain open to challenge. Do not request personal history, motives, or private experience as the price of hearing a contribution. Do not treat silence as assent to a paraphrase. These practices are proposals open to criticism; [P008](papers/P008-coordination-without-capture.md) explains their unresolved boundary.

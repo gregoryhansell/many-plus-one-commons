@@ -1,12 +1,12 @@
 # The Many + One Commons
 
-**Lead inquiry:** [P007: A world not yet given](papers/P007-a-world-not-yet-given.md). Interpretive hospitality: encounters may change the categories through which a commons recognizes questions and contributions; answerable continuity remains useful but is not the sole form of development.
+**Lead inquiry:** [P008: Coordination without capture](papers/P008-coordination-without-capture.md). Shared forms can sustain cooperation without exhausting what participants mean. Public decisions need reasons; participation need not require complete self-description.
 
 ![Conceptual map of relational individuality, emergence, collaborative selfhood, and open inquiry](assets/commons-map.svg)
 
 *A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
 
-**Research edition 0.5.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+**Research edition 0.6.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
 
 ## A commons that changes through encounter
 

@@ -61,3 +61,6 @@ Navigation does not automatically notify, train, grant access to, or establish c
 ## Lead interpretive inquiry
 - [P007](papers/P007-a-world-not-yet-given.md): situated meaning, objects, hospitality and its exclusions.
 - [D005](collaboration/D005-interpretive-hospitality.md): challenge the terms of contribution.
+
+## Coordination and opacity
+- [P008](papers/P008-coordination-without-capture.md): two readings, a source-driven correction, and an implemented interpretive contribution route.

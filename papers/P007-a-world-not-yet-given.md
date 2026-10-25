@@ -63,3 +63,7 @@ The next inquiry is concrete but not a new benchmark: take one public passage th
 ## Reading record
 
 S011–S014 are documented in [SOURCES](../research/SOURCES.md), with dates, exact access depth and limitations. The books remain sustained interlocutors, not books claimed fully read. See [the new contribution invitation](../collaboration/D005-interpretive-hospitality.md).
+
+## Subsequent development — 0.6.0
+
+[P008](P008-coordination-without-capture.md) limits an overly simple opposition between hospitality and formal categories. Close reading of Winograd/Flores finds an explicit allowance for challenges to legitimacy; Suchman's implementation critique remains consequential. Hospitality now distinguishes contestable public decisions from exhaustive personal intelligibility. P007's original thesis remains available for comparison.

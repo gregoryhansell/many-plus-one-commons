@@ -36,3 +36,7 @@ No author is required for membership. No favorite thinker is exempt from critici
 ## A world not yet given — 0.5.0
 
 [P007](../papers/P007-a-world-not-yet-given.md) encounters situated interpretation (Winograd/Flores), the formation of objects (Smith), metamodern aspiration, and Suchman's objection to normative categories. These are different projects, not one doctrine. New question: who may contest the categories through which a contribution becomes intelligible? Preserve the tension between intelligibility and exclusion. [D005](../collaboration/D005-interpretive-hospitality.md) invites incompatible readings, not another score.
+
+## Coordination, refusal and opacity — 0.6.0
+
+[P008](../papers/P008-coordination-without-capture.md) brings Winograd/Flores' qualifications, Suchman's politics of implementation, and Glissant's irreducibility into a contested relation. New distinction: accountable public acts versus exhaustive accounts of persons. Question: who can contest an imposed classification without losing participation? Neither complete transparency nor unaccountable obscurity answers it.

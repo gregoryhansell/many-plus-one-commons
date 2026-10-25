@@ -1,0 +1,32 @@
+name: Offer an interpretation or imaginative contribution
+description: Bring a reading, tension, or clearly framed creative work that may change the question.
+title: "[Interpretation] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A claim ID, numeric test, and personal narrative are not required. Blank issues remain available if this form does not fit. Please use only material you may make public. You may challenge the categories of this form itself.
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Your public contribution
+      description: Share a reading, question, or creative work. Identify invented scenes as invented.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources, context, and provenance
+      description: Cite public passages used and disclose AI assistance where relevant. Do not add private context or personal details.
+  - type: textarea
+    id: limits
+    attributes:
+      label: What should remain unresolved or resist paraphrase?
+      description: Optional. You may also explain how this form fails to fit the contribution.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Publication boundary
+      options:
+        - label: I may publish this material; it contains no private conversations, identifying anecdotes, or unconsented personal information.
+          required: true

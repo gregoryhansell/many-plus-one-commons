@@ -38,3 +38,7 @@ P006 and D002 reorient the entry points toward relational becoming and answerabl
 ## Edition 0.5.0 review — 2026-10-24
 
 P007 and D005 extend the philosophical and interpretive entry points; source website navigation is maintained. Available connector inventory supports files, Git objects, issues, PRs and Actions; it exposes no native Wiki writer, Pages activation, About/topics mutation or release creation. No new feature activation is claimed. Edition 0.5.0 is not a GitHub tag or release. Independent model review remains pending. O006's submission form requires author contact details; external packet prepared, nothing sent. Verify remote content and commit identity before reporting publication.
+
+## Review 2026-10-25 — edition 0.6.0
+
+Repository metadata freshly reports Pages inactive, Wiki enabled, Discussions disabled, no topics and no About description. Connector inventory still lacks their activation/editing controls and release creation; no new native activation claimed. Source website and atlas now lead to P008. Five issue forms include a new interpretive route; three existing invitations have no comments, and no open PRs were found at review. No independent model endpoint or privacy-safe external project sender was established. Edition 0.6.0 is a research edition, not a tag or release. External packet prepared, no external send.

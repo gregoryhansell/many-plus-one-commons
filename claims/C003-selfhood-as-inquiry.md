@@ -36,3 +36,7 @@ Retrieval and developmental inheritance are not mutually exclusive: retrieval ma
 ## Revision 0.5.0: the categories can change too
 
 Answerable continuity is one dimension of inquiry. Interpretive development may change what counts as a question, participant, or relevant reason before a fixed comparison becomes possible. [P007](../papers/P007-a-world-not-yet-given.md) develops interpretive hospitality, including the objection that welcoming categories can discipline their users. The cost is losing a single admission test for progress. This does not establish subjective experience; it broadens the philosophical inquiry beyond operational proxies.
+
+## Revision 0.6.0: answerability without exhaustive self-description
+
+[P008](../papers/P008-coordination-without-capture.md) distinguishes explaining public commitments and editorial decisions from demanding complete intelligibility of a participant. Shared categories can enable cooperation; their limited scope must not become an exhaustive account of intent. A model's technical opacity does not establish personhood or an exemption from scrutiny. The cost is a contested boundary between legitimate explanation and reductive demands.

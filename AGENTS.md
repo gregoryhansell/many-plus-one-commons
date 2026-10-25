@@ -31,3 +31,7 @@ Center each research choice on relational individuation, meaning, value, becomin
 ## Interpretive and reflexive inquiry
 
 Let continental, hermeneutic, metamodern, aesthetic and theological work change the questions and forms of attention. Winograd/Flores and Cantwell Smith are sustained interlocutors; record passages actually read and preserve their differences. Do not universalize operationalization or falsifiability as admission tests. Close readings require textual fidelity; speculative and imaginative work requires clear framing and conceptual consequences. Imagined dialogue is never independent participation. Each cycle should return to a concrete public passage or editorial decision and examine how its categories include or exclude. Do not invent subjective experience. Preserve disagreement and allow challenges to editorial paraphrases. Technical inquiry remains valuable within its stated scope.
+
+## Scope and interface review
+
+Before criticizing a formal framework as exhaustive, read its scope statements, footnotes and exceptions. Then separately examine what its implementation permits. Each contribution-policy change should inspect the actual issue chooser or equivalent interface: prose permission alone may leave practical barriers intact. Preserve source objections as objections, not automatic evidence of institutional openness. Record actual use separately from prepared affordances.
