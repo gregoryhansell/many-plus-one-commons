@@ -1,6 +1,6 @@
 # Current capability status · B001
 
-The [Becoming Experiment](becoming/PROTOCOL.md) uses the repository as a versioned public memory substrate. The [runner](becoming/runner.py) is opt-in research code and has not been activated. No API credentials, continuous runtime, scheduled agent, or unreviewed autonomous publishing exist as part of this edition. Historical notes about the earlier daily research agent below do not restart it.
+The [Becoming Experiment](becoming/PROTOCOL.md) uses the repository as a versioned public memory substrate. The [runner](becoming/runner.py) is opt-in research code and has not been activated. No configured API experiment or continuous model runtime is claimed. Bounded scholarship resumed on 2026-10-27; B001 candidate outputs still require separate human review. Historical capability reviews below describe their stated dates.
 
 # GitHub capability and activation map
 
@@ -65,3 +65,7 @@ P007 and D005 extend the philosophical and interpretive entry points; source web
 ## Review 2026-10-25 — edition 0.6.0
 
 Repository metadata freshly reports Pages inactive, Wiki enabled, Discussions disabled, no topics and no About description. Connector inventory still lacks their activation/editing controls and release creation; no new native activation claimed. Source website and atlas now lead to P008. Five issue forms include a new interpretive route; three existing invitations have no comments, and no open PRs were found at review. No independent model endpoint or privacy-safe external project sender was established. Edition 0.6.0 is a research edition, not a tag or release. External packet prepared, no external send.
+
+## Capability review 2026-10-27
+
+Authenticated owner routing and selected-repository installation verified; the installation lists only this public repository with push permission. File/Git-object publication and Actions inspection are available. No independent model endpoint or verified privacy-safe external sender is established. No new Wiki, Pages, topics, Discussions or release activation claimed. The new attention record is repository navigation, not a memory service. Three existing issues have zero comments; external reach remains unverified.

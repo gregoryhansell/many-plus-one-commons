@@ -50,3 +50,7 @@ These are historical sources newly consulted, not newly published discoveries. P
 - **S017, abstract only:** Terry Winograd, [Categories, disciplines, and social coordination](https://dl.eusset.eu/items/29ca8cc1-adb4-4bb5-91cc-c6907687bfdb), DOI 10.1007/BF00749016, pp. 191–197. EUSSET indexes 1993, while a university course lists 1994; date discrepancy retained. Abstract distinguishes comprehensive models from structures for communication. No detailed claims in P008 depend on an unread full reply.
 
 Historical sources newly consulted; no fresh empirical finding claimed. Initial Glissant mirror retrieval failed; the teaching extract provided an accessible alternative. Further work should compare the complete Suchman–Winograd exchange and authoritative editions.
+
+## S018 — Nietzsche: history, horizons, false analogy
+
+Friedrich Nietzsche, *The Use and Abuse of History* (1874), Adrian Collins translation (1909), [primary text](https://www.gutenberg.org/files/38226/old/38226-h/20111205-38226-h.htm). Accessed 2026-10-27. Read sections I–II, printed pp. 6–23, in retrieved text; no original-language comparison or full-book claim. [N001](notes/2026-10-27-reasons-at-rest.md) distinguishes the textual argument from its proposed application to research attention. Source-derived resistance, not an independent reviewer.

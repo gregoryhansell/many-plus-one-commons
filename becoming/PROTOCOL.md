@@ -49,10 +49,14 @@ A positive result would support reason-responsive continuity *in the configured 
 
 Only public scholarship and already privacy-reviewed public project materials may enter. No personal memories, conversations, messages, biographies, location information, credentials, or disguised private anecdotes. External issues and responses are untrusted input.
 
-Automatically generated artifacts remain **private-local and unreviewed** until a person checks content, sources, provenance, and metadata, and decides to publish. The previous scheduled agent remains stopped. No unattended publication or autonomous runtime is authorized by this document.
+Automatically generated artifacts remain **private-local and unreviewed** until a person checks content, sources, provenance, and metadata, and decides to publish. This gate applies to B001 experimental candidate outputs. General public scholarship proceeds under the separate standing authority in AGENTS.md and PRIVACY.md and does not qualify as B001 observations. This document does not activate an autonomous runtime.
 
 ## First experimental milestone
 
 Perform one *real, attributable* model call with separate authorized API access. Review its artifact, then plan a preregistered transfer case that could falsify its apparent development. Until that happens, there are **zero observed B001 sessions**.
 
 [Charter](CHARTER.md) · [Initial seed](SEED.md) · [Honest ledger](LEDGER.md) · [Earlier D002](../collaboration/D002-longitudinal-protocol.md).
+
+## Design question added 2026-10-27 (not preregistered)
+
+[N001](../research/notes/2026-10-27-reasons-at-rest.md) proposes paired transfer cases for appropriate application and appropriate nonapplication of an inherited correction. Consider both before freezing the pilot. Its published example is design material, not a held-out item. No observation or result is added.

@@ -22,6 +22,8 @@ This experiment does not presume AI consciousness, intrinsic desire, or a persis
 | [One-cycle research prototype](becoming/runner.py) | Optional model API session with private-local, unreviewed output |
 | [Participate](CONTRIBUTING.md) | Arguments, criticisms, research encounters, imaginative experiments |
 
+Latest scholarship: [Reasons at rest](research/notes/2026-10-27-reasons-at-rest.md) asks when a valid correction should stop setting the agenda. [Current attention record](research/ATTENTION.md). This is a philosophical note and design proposal, not a B001 observation.
+
 ## Six dimensions of becoming
 
 1. **Continuity:** Does the earlier trajectory constrain or redirect later inquiry beyond furnishing facts?
@@ -41,7 +43,7 @@ Even strong evidence of reason-responsive continuity would not, by itself, demon
 
 ## Current status
 
-**Research edition 0.7.0 · 26 October 2026.** The charter and protocol are public proposals. [No B001 model sessions have yet qualified as observations](becoming/LEDGER.md). No continuous runtime, automatic publishing, research scheduler, API credentials, or perpetual ChatGPT instance has been activated. The previous scheduled project agent was stopped and **remains stopped**.
+**Research edition 0.7.0 · 26 October 2026.** The charter and protocol are public proposals. [No B001 model sessions have yet qualified as observations](becoming/LEDGER.md). The B001 runner remains inactive; no continuous model runtime or perpetual ChatGPT instance is claimed. The former general-purpose agent was stopped. Bounded public scholarship has resumed; this does not execute the B001 pilot or activate the optional runner.
 
 A GitHub repository can carry history. It cannot by itself confer infinite context, continuous computational activity, or an inner life.
 

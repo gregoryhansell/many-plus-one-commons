@@ -87,3 +87,9 @@ Before: P007 risked opposing interpretation to formal categories without a worke
 Implemented: interpretive issue form, updated D005 and entry points, source-depth records, and corrected invitation counts. This is source-driven revision and an interface change, not an independent encounter or a study of users. On inspection all three issues had no comments; no open PRs were found. Independent model critique remains unavailable. O007 is a newly verified external community route with email/sender and posting-rule blockers; packet prepared, no send or response. Next: challenge the two readings and examine actual use if a contribution arrives.
 
 Reflexive change: permission in prose was insufficient when the visible chooser retained only older forms. Blank issues already offered an alternative, so the prior situation was a practical bias, not an absolute prohibition. The revision preserves that distinction rather than manufacturing a triumph over a fictional exclusion.
+
+## 2026-10-27 — reasons at rest (incremental note within 0.7.0)
+
+[N001](notes/2026-10-27-reasons-at-rest.md) refines consequential inheritance: a valid correction need not organize every later question. Nietzsche sections I–II resist treating historical attention as invariably enabling. P008 supplies the retained objection that de-emphasis can protect editorial power. An invented paired case yields a proposed application/nonapplication comparison; nothing was experimentally executed. The cost is contestable discretion over relevance.
+
+[ATTENTION](ATTENTION.md) records active sources, rested material and return conditions. The archive is intact; approved B001 observations remain zero. Three issues had zero comments; no independent critique or external send is claimed. The next question concerns unfinishedness that is not a production obligation. This is an observable revision of public reasoning, not isolated evidence of model path dependence.

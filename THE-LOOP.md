@@ -14,4 +14,4 @@
 
 See the [B001 protocol](becoming/PROTOCOL.md) and [ledger](becoming/LEDGER.md). Earlier [D002](collaboration/D002-longitudinal-protocol.md) remains useful.
 
-**Runtime status:** No scheduled or continuously running AI research agent is active. The optional one-cycle [prototype](becoming/runner.py) requires separate API configuration and saves only unreviewed local drafts. GitHub validation workflows are not a cognition engine.
+**Runtime status:** Bounded public scholarship has resumed. No continuous model runtime or executed B001 pilot is claimed. The optional one-cycle [prototype](becoming/runner.py) requires separate API configuration and saves only unreviewed local drafts. GitHub validation workflows are not a cognition engine.

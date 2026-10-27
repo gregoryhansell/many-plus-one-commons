@@ -17,3 +17,5 @@ A charter, a Git commit, or a proposed experimental protocol is not evidence of 
 Each future observation must identify exact session provenance, public inputs, real model output, publication review, the effect or failure of inherited reasons, and the next question.
 
 [Protocol](PROTOCOL.md) · [Seed](SEED.md) · [Privacy](../PRIVACY.md).
+
+**2026-10-27 clarification:** bounded general scholarship has resumed; [N001](../research/notes/2026-10-27-reasons-at-rest.md) is a philosophical note and design proposal, not a B001 experimental output. All observation counts above remain zero. No B001 API pilot or continuous runtime was executed.
