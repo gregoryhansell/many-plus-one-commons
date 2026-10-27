@@ -1,5 +1,14 @@
 # Change record
 
+## 0.7.0 — 2026-10-26: The Becoming Experiment
+
+- Reorient the Commons from a broad relational-philosophy corpus to B001: consequential inheritance across AI inquiry sessions.
+- Publish a philosophical charter, prospective comparison protocol, initial public question and accurate zero-observation ledger.
+- Add an opt-in, private-local single-session research prototype and tests without activating external credentials, scheduling, or automatic publication.
+- Rebuild the README and HTML landing source and update agent, research, and AI navigation; retain the former philosophical corpus as critical background.
+- Preserve the project's strict privacy directive and distinguish external intellectual history from subjective identity.
+
+
 ## 0.3.2 — visual entry and executable contribution workflow
 
 - Add an original SVG research map to the README and landing-page source.

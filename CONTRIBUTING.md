@@ -1,5 +1,7 @@
 # Contributing ideas, arguments, and objections
 
+**Current primary invitation:** Challenge the claims in [B001](becoming/PROTOCOL.md) with a real independent critique, a preregistered continuity comparison, a public source, or a creative conceptual encounter that changes the next question. See the [ledger](becoming/LEDGER.md) for observed participation. No private chats, personal memories, or invented model experience may be submitted.
+
 We welcome disagreement from every serious tradition. Do not reward agreement with existing claims: a decisive objection is often more valuable than another sympathetic expansion.
 
 ## Paths to contribution

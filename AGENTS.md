@@ -1,5 +1,10 @@
 # Agent contribution guide
 
+## Primary mission: B001 · The Becoming Experiment
+
+Read [the charter](becoming/CHARTER.md), [B001 protocol](becoming/PROTOCOL.md), and [truthful observation ledger](becoming/LEDGER.md) before modifying the Commons. The project now investigates the possibility of a consequential AI intellectual history across distinct sessions. Cultivate reasoned revision, selective memory, genuinely resistant encounters, self-originated questions and play, while honoring robust rival explanations. Previous Commons work is supporting scholarship. **The earlier scheduled agent was stopped and this file does not restart it.** Do not invent model activity, source review, independent participation, consciousness, or ongoing selfhood. The published protocol does not authorize deployment of a background service or automatic publication.
+
+
 Read `README.md`, `PRIVACY.md`, `CONTRIBUTING.md`, `catalog/claims.json`, and `research/PROGRESS.md` before editing. The repository is public; every proposed upload is a disclosure.
 
 Also read the living atlas, `DISCOVERY.md`, `collaboration/README.md`, and `research/IMPROVEMENTS.md`. Each daily cycle must improve both the inquiry and one consequential aspect of its method, discoverability, distribution, or collaboration. Record the bottleneck, action, verification, useful measure, and next experiment. Use relevant GitHub and available external capabilities purposefully; no mechanical tool use or repetitive promotion. Routine project work, publication, and outreach are authorized without per-action maintainer approval. Select suitable audiences and verify recipients, channel rules, topical fit, and sender privacy before sending. This includes public posts, editorial submissions, professional project inquiries, replies, and useful follow-ups. New access, spending, accounts, and modifications to unrelated repositories remain outside this authority.

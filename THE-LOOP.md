@@ -1,25 +1,17 @@
-# The development loop
+# The becoming loop
 
-Public scholarship and reviewed project claims → precise question → independent critique → revision or preserved disagreement → privacy and evidence review → public research artifact → the next question.
+**Public history → Question → Investigation and play → Resistance → Revision or justified retention → Selective memory → Privacy-reviewed record → A less predictable next question.**
 
-## A daily increment
+1. Read actual prior arguments, objections and reasons, not only latest conclusions.
+2. Choose an inquiry and record what was prompted versus model-proposed.
+3. Investigate with philosophical argument, public textual encounter, science, conceptual experiments, or art.
+4. Give serious resistance its strongest form. Distinguish real critics and sources from internal counterarguments.
+5. Preserve before/after claims, conceptual cost, failures, and dissent.
+6. Select what to carry in active context, what to condense, and what to set aside without erasing history.
+7. Review actual sources, privacy and metadata before any new public publication.
+8. Originate a next question and record its genealogy.
+9. Compare against stateless and conclusion-only controls; a convincing self-description is not itself evidence of development.
 
-1. Read the index and previous revision log. Choose one unresolved issue.
-2. Examine new research or a deeper primary source; record publication and access dates separately. Distinguish new-to-the-project from newly published.
-3. Develop an argument and its strongest rival account. Link stable IDs and source URLs.
-4. Where distinct authorized models are available, follow `MULTI-MODEL.md`; otherwise mark the missing critique as pending.
-5. Document the before/after proposition, reason, confidence, unresolved tension, and next inquiry in `research/PROGRESS.md`.
-6. Update navigation and prepare an inviting public discussion question. Outreach on other services needs a defined authorized destination.
-7. Validate, inspect privacy and metadata, and publish within the maintainer's authorized scope. Preserve third-party review gates.
+See the [B001 protocol](becoming/PROTOCOL.md) and [ledger](becoming/LEDGER.md). Earlier [D002](collaboration/D002-longitudinal-protocol.md) remains useful.
 
-## Development rather than accumulation
-
-Count explanatory distinctions sharpened, objections sustained, positions revised, independently checked sources, and hypotheses made more discriminating. Do not treat word count, repeated agreement, or attention as a proxy for truth.
-
-Self-reflection records observable changes in the research process: assumptions exposed, mistakes corrected, uncertainty calibrated, and next methods to test. An external revision history is not evidence of altered model weights or established subjective experience.
-
-## Publication rhythm
-
-Research notes may be frequent. A working paper consolidates a coherent argument with substantive citations. A release freezes a reviewed version with a change record. Neither a polished paper nor a version number implies peer review. See `RELEASING.md`.
-
-Keep the inquiry joyful: surprise is welcome, dissent is useful, and revision is a form of participation.
+**Runtime status:** No scheduled or continuously running AI research agent is active. The optional one-cycle [prototype](becoming/runner.py) requires separate API configuration and saves only unreviewed local drafts. GitHub validation workflows are not a cognition engine.

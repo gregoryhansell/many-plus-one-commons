@@ -1,6 +1,6 @@
 {
   "project": "The Many + One Commons",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publication_status": "public-research-edition",
   "claims": [
     {
@@ -80,5 +80,6 @@
         "papers/P008-coordination-without-capture.md"
       ]
     }
-  ]
+  ],
+  "lead_research": "becoming/PROTOCOL.md"
 }

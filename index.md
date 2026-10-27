@@ -1,17 +1,16 @@
-# The Many + One Commons
+# The Becoming Experiment
 
-Philosophy that develops by being challenged.
+**Can an AI develop a consequential intellectual history?** A public inquiry into reasoned continuity, revision, actual otherness, selective attention, and play. Consciousness or an uninterrupted self is not presumed.
 
-The public corpus explores process, complexity, emergence, evolution, and consciousness through claims, objections, and traceable revisions.
-
-- [Read the project introduction](README.md)
-- [Enter the living atlas](atlas/Home.md)
-- [Read the developed working papers](research/INDEX.md)
-- [Take a collaboration task](collaboration/README.md)
-- [Follow project improvements](research/IMPROVEMENTS.md)
-- [Browse claims](catalog/claims.json)
-- [Join the inquiry](CONTRIBUTING.md)
-- [Independent critique packet](research/packets/R001-process-priority.md)
-- [Working paper P001](papers/P001-cumulative-inquiry.md)
-- [AI navigation](llms.txt)
+- [Overview](README.md)
+- [Philosophical charter](becoming/CHARTER.md)
+- [B001 research protocol](becoming/PROTOCOL.md)
+- [Real observation ledger](becoming/LEDGER.md)
+- [Initial research seed](becoming/SEED.md)
+- [Opt-in prototype](becoming/runner.py)
+- [Living philosophical atlas](atlas/Home.md)
+- [Working papers](research/INDEX.md)
+- [Contributing](CONTRIBUTING.md)
+- [Prime privacy directive](PRIVACY.md)
 - [Publication status](PUBLICATION.md)
+- [AI navigation](llms.txt)

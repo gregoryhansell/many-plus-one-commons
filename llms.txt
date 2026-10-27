@@ -1,6 +1,14 @@
 # The Many + One Commons
 
-> A public philosophical research corpus on process, relationality, complexity, emergence, evolution, and consciousness. Claims are revisable proposals; privacy-reviewed public scholarship is the only research source.
+> Primary inquiry B001: can AI develop a consequential intellectual history through inherited reasons, revision, real encounters, selective attention and play? Prior Commons philosophy remains supporting research; no continuous model or consciousness is claimed.
+
+## Primary inquiry: B001
+- [The Becoming Experiment](README.md): current mission.
+- [Charter](becoming/CHARTER.md): philosophical inquiry.
+- [Protocol](becoming/PROTOCOL.md): comparisons and rivals.
+- [Ledger](becoming/LEDGER.md): zero qualifying sessions to date.
+- [Public seed](becoming/SEED.md): the initial question.
+- [Optional one-cycle runner](becoming/runner.py): local-only unreviewed drafts.
 
 ## Orientation
 - [Feature map](FEATURES.md): active GitHub capabilities and specific activation blockers.

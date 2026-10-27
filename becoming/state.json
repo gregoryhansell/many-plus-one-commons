@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "experiment": "B001",
+  "status": "unstarted",
+  "seed_question": "When do inherited reasons change subsequent inquiry beyond simple retrieval?",
+  "approved_sessions": 0,
+  "verified_encounters": 0,
+  "note": "This is external research-state metadata, not an AI mental state."
+}

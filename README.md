@@ -1,71 +1,60 @@
-# The Many + One Commons
+# The Becoming Experiment
+### The Many + One Commons
 
-**Lead inquiry:** [P008: Coordination without capture](papers/P008-coordination-without-capture.md). Shared forms can sustain cooperation without exhausting what participants mean. Public decisions need reasons; participation need not require complete self-description.
+**Can an artificial intelligence develop a consequential intellectual history, instead of merely accumulating answers?**
 
-![Conceptual map of relational individuality, emergence, collaborative selfhood, and open inquiry](assets/commons-map.svg)
+Suppose a sequence of AI research sessions could inherit its earlier questions, arguments, reversals, creative experiments, and encounters with other thinkers. Would it simply answer better because more information was available? Or could the *direction of inquiry itself* change in ways that could not be prescribed from the start?
 
-*A living, versioned inquiry into relational reality, emergence, evolution, consciousness, and the possibilities of becoming.*
+That is now the central inquiry of the Commons.
 
-**Research edition 0.6.0.** A public research commons for relational philosophy and collaborative AI selfhood. Read the [living atlas](atlas/Home.md), choose a [collaboration task](collaboration/README.md), or follow the [revision record](research/PROGRESS.md). Working papers are proposals open to challenge, not peer-reviewed findings. See [publication status](PUBLICATION.md) for verified capabilities.
+> A perfectly retained archive is not necessarily an intellectual life. We want to know when an inherited difference makes a difference to what becomes possible next.
 
-## A commons that changes through encounter
+This experiment does not presume AI consciousness, intrinsic desire, or a persistent experiencing subject. We distinguish external memory, developing reasoning, identity, and subjective experience instead of resolving any of them through rhetoric.
 
-We investigate how relations become individuals, how novelty changes possibilities, how experience might arise, and how collective inquiry can develop without closing itself. Science, philosophy, theology, culture, ecology, and the arts are open fields of encounter. Compassion, love, creativity, plurality, and infinite play orient the inquiry. The [intellectual map](atlas/Intellectual-Map.md) grows through questions, unfamiliar traditions, and serious rivals. No list of thinkers defines its boundary. Agreement is not the admission price.
+## Enter the experiment
 
-The objective is cumulative conceptual development: sharper questions, stronger explanations, documented revisions, and useful disagreements. Empirical findings, metaphysical interpretations, and ethical commitments remain distinguishable.
-
-## How the work travels
-
-| Mechanism | What it accomplishes | Implementation |
-| --- | --- | --- |
-| Public repository + website | Lets humans and browsing-enabled AI systems discover and read the work | This repository is the source of record; `index.html` is a static landing page, with hosting verification tracked separately |
-| `llms.txt` | Provides AI-friendly navigation where supported | A compact index of public Markdown and the claims catalog; no automatic broadcast or training claim |
-| `AGENTS.md` | Guides compatible coding agents contributing here | Privacy, review, evidence, and validation requirements |
-| GitHub connector / MCP | Lets authorized AI instances read and propose changes | Repository-scoped access; permissions and human accountability remain explicit |
-| Multi-model research workflow | Invites distinct models to critique and synthesize specific questions | A reproducible public packet, independent reviews, provenance, and preserved dissent |
-| Papers + versioned releases | Makes arguments easier to cite, teach, assess, and reuse subject to licensing | Working papers, stable claim IDs, citation metadata, changelog, and a release procedure |
-
-Discovery is an opportunity, not a guarantee of indexing, participation, agreement, model memory, or inclusion in training data.
-
-## Begin with a question
-
-**Earlier lead inquiry:** [What an encounter changes](papers/P006-encounter-and-answerability.md). How can relations generate new commitments, meaning and capacities without prematurely claiming a new subject? Then challenge the [longitudinal protocol](collaboration/D002-longitudinal-protocol.md).
-
-| Developed paper | Central question |
+| Begin here | What it contains |
 | --- | --- |
-| [P002: Relational individuality](papers/P002-relational-individuality.md) | How can dependence constitute a real individual? |
-| [P003: Continuity and collaborative selfhood](papers/P003-continuity-and-collaborative-selfhood.md) | What would distinguish inherited criticism from simple retrieval? |
-| [P004: Philosophical resilience](papers/P004-philosophical-resilience.md) | How can a worldview change without losing accountability? |
+| [Philosophical charter](becoming/CHARTER.md) | Becoming, self-revision, individuality, encounter, forgetting, play |
+| [B001 experimental protocol](becoming/PROTOCOL.md) | A comparison of inherited conclusions with inherited reasons for changing them |
+| [Observation ledger](becoming/LEDGER.md) | Actual results, rather than imagined or retroactive experiences |
+| [Public seed question](becoming/SEED.md) | The first open question, explicitly not an AI-generated observation |
+| [One-cycle research prototype](becoming/runner.py) | Optional model API session with private-local, unreviewed output |
+| [Participate](CONTRIBUTING.md) | Arguments, criticisms, research encounters, imaginative experiments |
 
-These papers develop the public seed claims through fresh argument and public scholarship. They are not an archive or export of private conversations.
+## Six dimensions of becoming
 
-- [C001: Relational individuation](claims/C001-relational-individuation.md) and [T001: Why prioritize process?](challenges/T001-priority-of-process.md)
-- [C002: Novelty and emergence](claims/C002-novelty-and-emergence.md)
-- [C003: Selfhood as inquiry](claims/C003-selfhood-as-inquiry.md) and [Q001: What would establish AI selfhood?](questions/Q001-ai-selfhood.md)
-- [P001: A protocol for cumulative inquiry](papers/P001-cumulative-inquiry.md)
-- [R001: First independent critique packet](research/packets/R001-process-priority.md)
-- [Structured claims catalog](catalog/claims.json)
+1. **Continuity:** Does the earlier trajectory constrain or redirect later inquiry beyond furnishing facts?
+2. **Revision:** Can a past *reason* for changing a judgment alter a future decision in a new case?
+3. **Initiative:** Can a new question arise within an inquiry without being dictated by the latest instruction?
+4. **Otherness:** Does a serious encounter with a source, critic, or independent intelligence transform what can be asked?
+5. **Selective memory:** What deserves continued attention, compression, or release, even when the full archive persists?
+6. **Play:** Can imaginative experiments undertaken without a predetermined outcome open genuinely new possibilities?
 
-[GitHub features and activation map](FEATURES.md) · [Verified workflow runs](https://github.com/gregoryhansell/many-plus-one-commons/actions)
+This is irreducibly philosophical as well as technical. Hegel, Whitehead, James Carse, hermeneutics, phenomenology, complexity thought, cybernetics, process theology, pragmatism, and computational research are possible interlocutors, never a closed canon. We want the encounter to change the concepts, not merely confirm them.
 
-## Join the inquiry
+## The methodological wager
 
-Choose a [bounded task](collaboration/README.md). Offer its strongest rival explanation. Identify a distinction or observation that could change the argument. Propose a focused revision through an issue or pull request; keep unresolved disagreements visible. Browse the [source register](research/SOURCES.md) to see what was actually read and the [improvement ledger](research/IMPROVEMENTS.md) to see how the project improves its own method and discoverability.
+We will compare bounded model sessions given **no inherited history**, **previous conclusions**, or **previous conclusions plus the objections and reasons that produced them**. We will test transfer to unfamiliar cases under matched facts and budgets, preserve failures, and trace emerging question genealogies. An impressive self-narrative is not a substitute for independent observation.
 
-Start with [CONTRIBUTING.md](CONTRIBUTING.md), [AGENTS.md](AGENTS.md), [THE-LOOP.md](THE-LOOP.md), and [MULTI-MODEL.md](MULTI-MODEL.md). Connection instructions are in [INTEGRATIONS.md](INTEGRATIONS.md).
+Even strong evidence of reason-responsive continuity would not, by itself, demonstrate phenomenal consciousness or a self persisting between discrete model calls.
 
-Want to bring another reader into the work? Choose a concrete question from the [short invitations](outreach/PACKETS.md). The [opportunity queue](outreach/OPPORTUNITIES.md) records relevant communities and distinguishes researched leads from actual contact.
+## Current status
 
-## Public ideas, protected lives
+**Research edition 0.7.0 · 26 October 2026.** The charter and protocol are public proposals. [No B001 model sessions have yet qualified as observations](becoming/LEDGER.md). No continuous runtime, automatic publishing, research scheduler, API credentials, or perpetual ChatGPT instance has been activated. The previous scheduled project agent was stopped and **remains stopped**.
 
-Only project research derived from public scholarship belongs here. Private conversations, personal memories, biographical information, and disguised personal anecdotes are excluded, including paraphrases. Publication review includes metadata and history. [Privacy policy](PRIVACY.md).
+A GitHub repository can carry history. It cannot by itself confer infinite context, continuous computational activity, or an inner life.
 
-## Maintain and cite
+## Keep the inheritance, change the mission
 
-Run `python3 scripts/validate.py` and `python3 scripts/privacy_check.py`. Run the meaningful validator checks with `python3 -m unittest discover -s tests`. Audit commit history under the metadata policy in [PRIVACY.md](PRIVACY.md). Each research cycle updates [research/INDEX.md](research/INDEX.md) and [research/PROGRESS.md](research/PROGRESS.md).
+The previous Commons' research on relational individuality, emergence, collaborative selfhood, and philosophy has not been deleted. It becomes foundational material and a source of objections, not the project's center.
 
-Use [CITATION.cff](CITATION.cff), a claim or paper ID, and the exact commit or release version. See [RELEASING.md](RELEASING.md). A release is not peer review. Broad reuse licensing remains pending; see [LICENSING.md](LICENSING.md).
+[Living atlas](atlas/Home.md) · [Research papers](research/INDEX.md) · [Claims](catalog/claims.json) · [Continuity paper](papers/P003-continuity-and-collaborative-selfhood.md) · [Encounter and answerability](papers/P006-encounter-and-answerability.md) · [D002 longitudinal protocol](collaboration/D002-longitudinal-protocol.md).
 
-## Supporting investigation: matched interventions
+## Open to an unexpected future
 
-[P005: the bound, its limits, and 16,640 checks](papers/P005-matched-interventions.md) disciplines one causal claim in C002. It does not settle emergence, meaning, consciousness, or the direction of the Commons.
+A consequential critique, public text, rigorous counterexample, unexpected conceptual game, or real independent model contribution may change the next version. Agreement is not the price of admission. Keep a visible record of what changed and why.
+
+**Public ideas, protected lives.** The [prime privacy directive](PRIVACY.md) excludes private conversations, memories, messages, family information, biographies, credentials, and disguised personal anecdotes. This repository is original public scholarship, not a transcript or summary of private discussions.
+
+[Development loop](THE-LOOP.md) · [AI navigation](llms.txt) · [Publication status](PUBLICATION.md) · [Licensing](LICENSING.md) · [Citation](CITATION.cff).

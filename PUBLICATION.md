@@ -1,3 +1,7 @@
+# Current edition · 2026-10-26
+
+The Commons has pivoted to [The Becoming Experiment](becoming/PROTOCOL.md). The charter, seed, one-cycle API prototype and honest [zero-observation ledger](becoming/LEDGER.md) are published research *design*. No API key, autonomous scheduler, background model runtime, actual B001 model session, or unattended publication has been activated. The prior scheduled research agent remains stopped. The new HTML landing page is source code; native GitHub Pages or Wiki deployment is not claimed. The older publication notes below are retained as history.
+
 # Publication status and activation
 
 This research edition contains source files and procedures. Each external capability must be verified independently.

@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .env
 .env.*
+# Unreviewed model candidates must never be pushed to Git
+becoming/local/

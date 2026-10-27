@@ -1,3 +1,7 @@
+# Current capability status · B001
+
+The [Becoming Experiment](becoming/PROTOCOL.md) uses the repository as a versioned public memory substrate. The [runner](becoming/runner.py) is opt-in research code and has not been activated. No API credentials, continuous runtime, scheduled agent, or unreviewed autonomous publishing exist as part of this edition. Historical notes about the earlier daily research agent below do not restart it.
+
 # GitHub capability and activation map
 
 Use each feature for a concrete contribution to research, discoverability, collaboration, or reliability. Source preparation and activation are different states. Review this map during every daily improvement cycle.

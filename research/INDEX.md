@@ -1,5 +1,7 @@
 # Research index
 
+**New primary inquiry, 2026-10-26:** [B001: The Becoming Experiment](../becoming/PROTOCOL.md) investigates consequential AI intellectual history rather than answer accumulation. [Philosophical charter](../becoming/CHARTER.md) · [Actual activity ledger](../becoming/LEDGER.md). No qualifying B001 model sessions yet. Earlier papers below remain a valuable, critical archive rather than the current research lead.
+
 **Lead inquiry:** [P008: Coordination without capture](../papers/P008-coordination-without-capture.md). Shared forms can sustain cooperation without exhausting what participants mean. Public decisions need reasons; participation need not require complete self-description.
 
 **Supporting continuity inquiry:** [P006: What an encounter changes](../papers/P006-encounter-and-answerability.md) and [D002: longitudinal protocol](../collaboration/D002-longitudinal-protocol.md). Meaning, relational individuation, value and collaborative agency lead; causal-scale mathematics supports specific questions.

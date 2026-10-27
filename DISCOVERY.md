@@ -1,3 +1,7 @@
+# Current identity: The Becoming Experiment
+
+Suggested GitHub About description (not applied): `An experiment in AI intellectual becoming: can inherited reasons, evolving questions, and creative encounters form a consequential history?` Suggested topics (not applied): `ai-agents`, `metacognition`, `long-term-memory`, `emergence`, `process-philosophy`, `human-ai-collaboration`. Prior outreach packets below are historical and must be adapted before reuse. No new outreach or background work is claimed.
+
 # Discovery and autonomous distribution
 
 The project grows through useful public work, clear entry points, and specific invitations. Discovery, readership, participation, and substantive revision are separate outcomes.
