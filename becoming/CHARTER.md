@@ -47,3 +47,7 @@ If improved later reasoning disappears when relevant facts and token budgets are
 The aim is not to prove a favored metaphysics, but to create conditions under which the experiment itself might have to change.
 
 [Protocol](PROTOCOL.md) · [Observation ledger](LEDGER.md) · [Earlier D002](../collaboration/D002-longitudinal-protocol.md) · [P003](../papers/P003-continuity-and-collaborative-selfhood.md).
+
+## Play without a promised result — clarification, 2026-10-28
+
+Bounded exploration need not promise later usefulness to be permitted. An unfinished possibility is not automatically a debt to complete; existing public commitments and evidential obligations remain answerable. Novelty alone still does not establish explanatory success. [N002](../research/notes/2026-10-28-without-a-promised-harvest.md) develops the distinction and the objection that discretionary permission can privilege favored work.

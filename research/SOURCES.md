@@ -54,3 +54,7 @@ Historical sources newly consulted; no fresh empirical finding claimed. Initial 
 ## S018 — Nietzsche: history, horizons, false analogy
 
 Friedrich Nietzsche, *The Use and Abuse of History* (1874), Adrian Collins translation (1909), [primary text](https://www.gutenberg.org/files/38226/old/38226-h/20111205-38226-h.htm). Accessed 2026-10-27. Read sections I–II, printed pp. 6–23, in retrieved text; no original-language comparison or full-book claim. [N001](notes/2026-10-27-reasons-at-rest.md) distinguishes the textual argument from its proposed application to research attention. Source-derived resistance, not an independent reviewer.
+
+## S019a–b — Zhuangzi: usefulness under pressure
+
+James Legge translation (1891), [chapter 1, section 7](https://ratmachines.com/philosophy/chuang-tzu-legge/chapter-1) and [chapter 20, section 1](https://ratmachines.com/philosophy/chuang-tzu-legge/chapter-20). Accessed 2026-10-28. Complete English sections consulted plus chapter 1 introductory note on usefulness; no full-book or original-language verification. Chinese Text Project retrieval failed (403). [N002](notes/2026-10-28-without-a-promised-harvest.md) preserves the alternative-use interpretation and the tree/goose challenge to treating uselessness as protection. Textual encounter, not independent engagement.

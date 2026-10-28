@@ -1,6 +1,6 @@
 # Current attention record
 
-Updated 2026-10-27. A revisable reading aid, not model memory or an approved B001 result. Read the charter, protocol, ledger and privacy rules first. Full history remains available.
+Updated 2026-10-28. A revisable reading aid, not model memory or an approved B001 result. Read the charter, protocol, ledger and privacy rules first. Full history remains available.
 
 | Material | Attention decision | Reason | Return condition / preserved dissent |
 | --- | --- | --- | --- |
@@ -10,6 +10,8 @@ Updated 2026-10-27. A revisable reading aid, not model memory or an approved B00
 | [P006](../papers/P006-encounter-and-answerability.md) | Pointer rather than full rehearsal | Current task concerns applicability, not a fresh defense of continuity | Reopen before changing answerable continuity or its account of retrieval |
 | [E001](../experiments/E001-causal-scale/README.md) | Rest for this inquiry | Intervention-information calculations do not decide when an artistic frame applies | Reopen for a causal-scale claim; resting makes no judgment of mathematical validity |
 
-Next question: Can an inquiry preserve unfinishedness without converting it into a production obligation? Do not treat this prompt as a predetermined conclusion or prerequisite for another fruitful inquiry.
+Available question: When a project calls a contribution surprising, whose expectation has been interrupted? It is not a compulsory next assignment.
+
+[N002](notes/2026-10-28-without-a-promised-harvest.md) narrows the scope of return conditions: use them for rested reasons and deferred obligations, not as a universal requirement for imaginative fragments. The key miniature remains available without a promised continuation. Claims, corrections and promised responses cannot be recategorized as optional simply to escape scrutiny. Preserve P008 as the active objection to editorial favoritism. This record adds no obligation to create new fragments.
 
 Any future replacement should preserve the previous record in version history and explain consequential changes. Privacy, provenance, licensing and human review requirements are not attention options. This record has not been tested against alternative selection methods.

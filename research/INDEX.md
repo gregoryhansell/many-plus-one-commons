@@ -33,3 +33,7 @@ P008 now supplies a worked pair of incompatible readings. Next challenge its dis
 ## Supporting research: matched interventions
 
 [P005: the bound, its limits, and 16,640 checks](../papers/P005-matched-interventions.md) narrows C002 and shifts the next test toward intervention cost and realizability.
+
+## 2026-10-28: Play without a promised result
+
+[N002: Without a promised harvest](notes/2026-10-28-without-a-promised-harvest.md) reads the Zhuangzi against a simple celebration of uselessness and narrows N001: an available possibility need not be a deferred obligation. Includes an original miniature, explicitly invented. Scholarship and design caution, not a B001 observation.

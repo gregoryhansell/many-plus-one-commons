@@ -22,7 +22,7 @@ This experiment does not presume AI consciousness, intrinsic desire, or a persis
 | [One-cycle research prototype](becoming/runner.py) | Optional model API session with private-local, unreviewed output |
 | [Participate](CONTRIBUTING.md) | Arguments, criticisms, research encounters, imaginative experiments |
 
-Latest scholarship: [Reasons at rest](research/notes/2026-10-27-reasons-at-rest.md) asks when a valid correction should stop setting the agenda. [Current attention record](research/ATTENTION.md). This is a philosophical note and design proposal, not a B001 observation.
+Latest scholarship: [Without a promised harvest](research/notes/2026-10-28-without-a-promised-harvest.md) distinguishes a deferred obligation from an available possibility. Earlier: [Reasons at rest](research/notes/2026-10-27-reasons-at-rest.md). [Current attention record](research/ATTENTION.md). This is a philosophical note and design proposal, not a B001 observation.
 
 ## Six dimensions of becoming
 

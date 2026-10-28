@@ -76,3 +76,5 @@ Navigation does not automatically notify, train, grant access to, or establish c
 ## Current scholarship and selective attention
 - [N001: Reasons at rest](research/notes/2026-10-27-reasons-at-rest.md): valid reasons need not always set the agenda; proposed transfer design, not a result.
 - [Attention record](research/ATTENTION.md): selected inheritance, reasons for resting material, return conditions and preserved dissent.
+
+- [N002: Without a promised harvest](research/notes/2026-10-28-without-a-promised-harvest.md): deferred work versus available possibility; Zhuangzi reading and original miniature, not experimental evidence.

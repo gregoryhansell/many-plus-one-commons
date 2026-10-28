@@ -69,3 +69,7 @@ Repository metadata freshly reports Pages inactive, Wiki enabled, Discussions di
 ## Capability review 2026-10-27
 
 Authenticated owner routing and selected-repository installation verified; the installation lists only this public repository with push permission. File/Git-object publication and Actions inspection are available. No independent model endpoint or verified privacy-safe external sender is established. No new Wiki, Pages, topics, Discussions or release activation claimed. The new attention record is repository navigation, not a memory service. Three existing issues have zero comments; external reach remains unverified.
+
+## Capability review 2026-10-28
+
+Selected-repository scope, authenticated routing and push permission rechecked. The installation exposes only the authorized repository. Recent connector commits use noreply author/committer identities; publication requires the same. Repository text and Git-object tools remain available. No new service, independent model endpoint, Wiki/Pages activation, release or external sender is claimed. Three issues had zero comments and no open PRs were found. New public reading and navigation are distinct from outreach; nothing was externally sent.

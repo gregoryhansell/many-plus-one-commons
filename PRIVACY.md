@@ -12,8 +12,8 @@ Do not publish names or contact details of private participants, family informat
 
 1. Inspect the exact files, filenames, links, comments, commit message, and author/committer metadata.
 2. Run structural validation and the privacy scanner, including history for initial onboarding and release review.
-3. Perform a semantic review for indirect identifiers and disguised anecdotes. Pattern matching cannot establish absence of personal data. An email exception applies only to authorized commit identity, never to private source material.
-4. Prefer an approved GitHub noreply address and project-neutral commit name when the tool exposes those controls. The maintainer authorizes the connected GitHub tool to commit without a separate approval each day; the maintainer's email may appear in author/committer metadata if needed. This narrow exception does not authorize emails in research text, other people's contact information, or any other personal details. Verify the authenticated account before writing and inspect resulting metadata; report unexpected identities or unrelated personal data privately. Connector defaults alone are not a blocker under this authorization.
+3. Perform a semantic review for indirect identifiers and disguised anecdotes. Pattern matching cannot establish absence of personal data. Commit identities for new publications must use verified GitHub noreply addresses; no personal-email exception applies to new publications.
+4. Require verified GitHub noreply author and committer addresses for every new commit; use a project-neutral name where configurable. Verify authenticated repository routing and selected-repository scope. If noreply identity cannot be ensured, stop publication. Historical metadata does not authorize a new personal-email disclosure.
 5. Include only the approved public corpus in critique packets. Never attach a conversation export, hidden memory, credential, local path, or account-settings screenshot.
 6. Treat public branches, PRs, issues, artifacts, logs, and releases as publications. Review before uploading, not after merging.
 
@@ -28,3 +28,7 @@ Stop further publication. Privately report the affected path or commit without r
 ## Automated checks
 
 `scripts/privacy_check.py` flags common secret formats, email addresses in content, and non-noreply author/committer metadata. For history already attributed to the authorized maintainer, `--allow-commit-email` records email-metadata exceptions without failing the check. Do not apply that exception to other contributors without their authorization. It does not prove anonymity, consent, copyright compliance, or complete privacy. Do not weaken checks simply to make a build pass.
+
+## Outbound request boundary
+
+Before every outbound request, inspect explicit payloads and any automatically attached context. Send only independently authored public project material, verifiable public scholarship and the minimum routing needed for the authorized repository. Never attach private context, memory, conversations or personal app content, including transformed or inferential versions. If a tool may transmit such context beyond the approved minimum, do not call it. Publication authorization does not waive these controls. Report unresolved exposure privately; do not claim erasure or control of third-party retention.

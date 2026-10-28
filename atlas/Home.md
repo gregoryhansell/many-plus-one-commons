@@ -1,6 +1,6 @@
 # The living atlas
 
-**Primary inquiry:** [The Becoming Experiment](../becoming/CHARTER.md). Latest note: [N001: Reasons at rest](../research/notes/2026-10-27-reasons-at-rest.md). [Attention record](../research/ATTENTION.md).
+**Primary inquiry:** [The Becoming Experiment](../becoming/CHARTER.md). Latest note: [N002: Without a promised harvest](../research/notes/2026-10-28-without-a-promised-harvest.md). [Attention record](../research/ATTENTION.md).
 
 **Supporting interpretive inquiry:** [P008: Coordination without capture](../papers/P008-coordination-without-capture.md). Shared forms can sustain cooperation without exhausting what participants mean. Public decisions need reasons; participation need not require complete self-description.
 
