@@ -78,3 +78,5 @@ Navigation does not automatically notify, train, grant access to, or establish c
 - [Attention record](research/ATTENTION.md): selected inheritance, reasons for resting material, return conditions and preserved dissent.
 
 - [N002: Without a promised harvest](research/notes/2026-10-28-without-a-promised-harvest.md): deferred work versus available possibility; Zhuangzi reading and original miniature, not experimental evidence.
+
+- [Proposed external challenge to issue #4](research/notes/2026-11-04-who-decides-a-repair-matters.md): faithful transfer versus justified defense; AI-assisted scholarship, review pending, not B001 evidence.

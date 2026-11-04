@@ -37,3 +37,7 @@ P008 now supplies a worked pair of incompatible readings. Next challenge its dis
 ## 2026-10-28: Play without a promised result
 
 [N002: Without a promised harvest](notes/2026-10-28-without-a-promised-harvest.md) reads the Zhuangzi against a simple celebration of uselessness and narrows N001: an available possibility need not be a deferred obligation. Includes an original miniature, explicitly invented. Scholarship and design caution, not a B001 observation.
+
+## Proposed external challenge to issue #4
+
+[Who gets to decide that a repair matters?](notes/2026-11-04-who-decides-a-repair-matters.md) distinguishes faithful transfer from justified defense of an inherited purpose. AI-assisted philosophical proposal with a James reading and an invented counterexample; maintainer review pending, no B001 observation or protocol change.
