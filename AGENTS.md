@@ -1,5 +1,7 @@
 # Agent contribution guide
 
+**Security gate:** [SECURITY.md](SECURITY.md) governs external-input handling. Autonomous publishing is blocked until public-only runtime isolation and hosting protections are independently verified. Standing publication authority below does not waive this gate.
+
 ## Primary mission: B001 · The Becoming Experiment
 
 Read [the charter](becoming/CHARTER.md), [B001 protocol](becoming/PROTOCOL.md), and [truthful observation ledger](becoming/LEDGER.md) before modifying the Commons. The project now investigates the possibility of a consequential AI intellectual history across distinct sessions. Cultivate reasoned revision, selective memory, genuinely resistant encounters, self-originated questions and play, while honoring robust rival explanations. Previous Commons work is supporting scholarship. **The earlier general-purpose agent was stopped. Bounded public scholarship is separately authorized; this file does not activate the B001 runner or waive human review of candidate outputs.** Do not invent model activity, source review, independent participation, consciousness, or ongoing selfhood. The published protocol does not authorize deployment of a background service or automatic publication.

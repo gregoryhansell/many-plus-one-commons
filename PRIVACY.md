@@ -1,5 +1,7 @@
 # Privacy boundary: public ideas, protected lives
 
+**Security gate:** [SECURITY.md](SECURITY.md) governs external-input handling. Autonomous publishing is blocked until public-only runtime isolation and hosting protections are independently verified. Standing publication authority below does not waive this gate.
+
 This is a public research project. Public visibility does not authorize personal disclosure.
 
 ## Source boundary
@@ -27,7 +29,7 @@ Stop further publication. Privately report the affected path or commit without r
 
 ## Automated checks
 
-`scripts/privacy_check.py` flags common secret formats, email addresses in content, and non-noreply author/committer metadata. For history already attributed to the authorized maintainer, `--allow-commit-email` records email-metadata exceptions without failing the check. Do not apply that exception to other contributors without their authorization. It does not prove anonymity, consent, copyright compliance, or complete privacy. Do not weaken checks simply to make a build pass.
+`scripts/privacy_check.py` flags common secret formats, email addresses in content, and non-noreply author/committer metadata. Commit-email exceptions are not accepted by the scanner. Findings use opaque identifiers so potentially sensitive filenames and matched text are not printed. It does not prove anonymity, consent, copyright compliance, or complete privacy. Do not weaken checks simply to make a build pass.
 
 ## Outbound request boundary
 

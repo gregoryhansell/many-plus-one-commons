@@ -17,7 +17,8 @@ class TestBecomingPrototype(unittest.TestCase):
             runner.extract_output({"status": "completed", "output": []})
 
     def test_stateless_has_no_inherited_history(self):
-        self.assertEqual(runner.packet_for("stateless")["approved_prior_public_sessions"], [])
+        with self.assertRaises(ValueError):
+            runner.packet_for("stateless")
 
     def test_dry_run_requires_no_credentials(self):
         self.assertEqual(runner.main(["--dry-run", "--condition", "stateless"]), 0)

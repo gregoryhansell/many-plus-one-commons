@@ -69,3 +69,10 @@ Develop P006 and D002; revise C001/C003; center philosophical navigation and doc
 - C003, D005, source register and lead navigation revised; technical work preserved.
 - Add interpretive issue form and interface-review guidance; prepare an EUSSET-oriented public packet with actual access limitations.
 - No independent review, observed user study, external send, or native release claimed.
+
+## Security maintenance — 2026-11-05
+
+- Require an external, digest-verified approval manifest for B001 API inputs; reject links, altered files, duplicate keys and oversized packets. Dry runs read no records. Disable API redirects and environment proxies.
+- Scan filenames and history metadata with redacted diagnostics; remove scanner bypass flags and reject nonregular input.
+- Inspect PR content using the trusted base scanner without executing candidate code. Pin checkout and stop automatic artifact uploads.
+- Add security-sensitive ownership rules and 17 regression tests. Hosting enforcement and public-only runtime isolation remain external prerequisites, not claims established by these files.

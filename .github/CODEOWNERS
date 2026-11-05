@@ -1,0 +1,10 @@
+# Required review must also be enforced by a hosting ruleset.
+/.github/ @gregoryhansell
+/AGENTS.md @gregoryhansell
+/PRIVACY.md @gregoryhansell
+/SECURITY.md @gregoryhansell
+/INTEGRATIONS.md @gregoryhansell
+/RELEASING.md @gregoryhansell
+/scripts/ @gregoryhansell
+/tests/ @gregoryhansell
+/becoming/ @gregoryhansell

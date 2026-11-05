@@ -1,30 +1,48 @@
 name: Validate research and privacy
 on:
-  pull_request:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
   push:
     branches: [main]
 permissions:
   contents: read
 jobs:
-  validate:
+  inspect-contribution:
+    if: github.event_name == 'pull_request_target'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      # Trusted workflow and scanner; NEVER execute/import/build candidate code.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: trusted
+          persist-credentials: false
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: candidate
+          fetch-depth: 0
+          persist-credentials: false
+          submodules: false
+          lfs: false
+      - name: Scan contribution as data using trusted base scanner
+        run: python3 -I trusted/scripts/privacy_check.py --root candidate --history
+  validate-main:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           fetch-depth: 0
           persist-credentials: false
+      - name: Scan publication content and history first
+        run: python3 -I scripts/privacy_check.py --history
       - name: Validate structure and links
         run: python3 scripts/validate.py
-      - name: Check publication safeguards
+      - name: Check regression safeguards
         run: python3 -m unittest discover -s tests
       - name: Reproduce the research experiment
         run: python3 scripts/reproduce.py
-      - name: Scan publication content
-        run: python3 scripts/privacy_check.py
-      - name: Preserve verified experiment results
-        uses: actions/upload-artifact@v4
-        with:
-          name: E001-verified-results
-          path: experiments/E001-causal-scale/*results.json
-          retention-days: 14
-          if-no-files-found: error
+      # No automatic artifact publication: output needs separate review.
