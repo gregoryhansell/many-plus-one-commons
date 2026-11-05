@@ -40,4 +40,4 @@ P008 now supplies a worked pair of incompatible readings. Next challenge its dis
 
 ## Proposed external challenge to issue #4
 
-[Who gets to decide that a repair matters?](notes/2026-11-04-who-decides-a-repair-matters.md) distinguishes faithful transfer from justified defense of an inherited purpose. AI-assisted philosophical proposal with a James reading and an invented counterexample; maintainer review pending, no B001 observation or protocol change.
+[Who gets to decide that a repair matters?](notes/2026-11-04-who-decides-a-repair-matters.md) distinguishes faithful transfer from justified defense of an inherited rule or its purpose, and both from the causal influence of history. AI-assisted philosophical proposal with a James reading and an invented counterexample; revised after maintainer review, not adopted, no B001 observation or protocol change.

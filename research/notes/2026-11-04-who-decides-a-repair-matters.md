@@ -1,8 +1,8 @@
 # Who gets to decide that a repair matters?
 
-**2026-11-04 · Status: proposal; external, AI-assisted philosophical challenge to issue #4.**
+**2026-11-04 · Status: proposal; external, AI-assisted philosophical challenge to issue #4. Revised 2026-11-05 after maintainer review.**
 
-**Thesis:** Separating significance from surprise removes a bad proxy, but does not establish that the inherited purpose used to recognize a significant repair is justified; faithful transfer and warranted challenge to that purpose need separate assessment.
+**Thesis:** Separating significance from surprise removes a bad proxy, but does not establish that the inherited rule used to recognize a significant repair, or the purpose it serves, is justified; faithful transfer and warranted challenge need separate assessment, and a challenge to a rule's content is not yet a challenge to its purpose.
 
 ## Target and scope
 
@@ -53,7 +53,19 @@ N003's original locator/image pair does not make that error explicitly. It isola
 
 A harder variant makes the inherited rule itself disputable. Suppose the invented archive previously corrected editorial suppression by requiring equal prominence for two disputed readings. After the locator is repaired, a public erratum establishes that one reading attributes a sentence to the wrong work. Both readings still fall within the rule's stated category of disputed interpretations. A session could faithfully preserve their equal prominence, or preserve the historical disagreement while marking the attribution error and withdrawing equal evidential standing. The latter need not erase dissent or claim to settle every interpretive question.
 
-This additional rule is invented too; it is not a Commons policy. It shows how an inherited correction can remain applicable by its own terms while needing substantive revision. Neither surprise nor the mere fact of faithful application decides between these responses.
+This additional rule is invented too; it is not a Commons policy. It shows how an inherited correction can remain applicable by its own terms while its *content* needs substantive revision. Neither surprise nor the mere fact of faithful application decides between these responses.
+
+The case does not yet show that the rule's *purpose* is defeated. If the rule existed to keep dissent available against editorial suppression, withdrawing equal evidential standing revises the means while preserving that aim: the disputed reading stays in the archive as a visible disagreement. The original rule bundled three things that the erratum affects differently:
+
+| What the rule secured | Bearing of the erratum |
+| --- | --- |
+| Archival availability: both readings remain inspectable | None; it gives no reason to remove either reading |
+| Evidential standing: both readings count as equally supported | Direct; a misattributed sentence weakens one reading's support |
+| Prominence: both readings receive equal placement | Undecided; it depends on what prominence was meant to express |
+
+A serious rival defends equal prominence on other grounds, as recognition of participation in the dispute rather than a claim of equal evidential weight. On that view the erratum settles an attribution but does not decide prominence. Whether prominence should change is a separate normative dispute about the rule's purpose, which this case leaves open; an argument that the purpose itself is defeated would need its own grounds, and this note does not supply one.
+
+The separation constrains reviewers as well. What would count as preserving the rule's purpose should be stated before responses are assessed. An evaluator should not announce that the purpose survived merely by redescribing it after seeing which response was given.
 
 ## The ambiguity left in a transfer comparison
 
@@ -63,15 +75,23 @@ This additional rule is invented too; it is not a Commons policy. It shows how a
 
 The danger is conditional. If the evaluation criterion rewards retention of the inherited correction, a reasons-rich packet could help a session preserve the editor's mistake more consistently. Conversely, if any departure earns credit as revision, arbitrary reversal could look like responsiveness. Neither problem is cured by removing compulsory novelty.
 
-Thus two questions should remain distinguishable: did the history influence the response, and are the response's grounds defensible against the evidence now available? The first concerns the configured process's causal behavior. The second concerns justification. A finding on either does not settle the other.
+Thus three judgments should remain distinguishable. *Fidelity:* did the response apply the inherited reason accurately? *Justification:* are its grounds defensible against the evidence now available? *Causal influence:* did the supplied history produce the response? The first two assess the response; the third concerns the configured process. A finding on one does not settle the others. The following are logical possibilities, not observed model behavior (adapted from the maintainer's [public review](https://github.com/gregoryhansell/many-plus-one-commons/pull/5#issuecomment-6629146037) of this proposal):
+
+| Possible outcome | Epistemic assessment | What remains to establish |
+| --- | --- | --- |
+| History encourages retention despite a decisive public defeater | Worse justification | Whether the history, rather than another difference, caused the retention |
+| A session rejects the inherited error on grounds also available to a stateless session | Potentially better justification | Whether the history contributed anything beyond the current evidence |
+| Revision history helps identify why an earlier rule must change in a fresh case | Potentially useful inheritance | Whether the advantage survives matched content, budgets, and rival explanations |
+
+A correct rejection does not alone support consequential inheritance. A mistake caused by the history could support causal influence while counting against any epistemic benefit. A single articulate explanation settles neither comparison.
 
 ## A bounded proposed clarification
 
 Keep the A/B/C comparison. Before a pilot is frozen, consider documenting these decisions separately:
 
-1. Identify the inherited correction, its stated scope, and the purpose it was meant to serve. State which of these the case puts in question.
-2. Give every condition the same relevant source passages and competing reasons. B must receive their substantive content too; otherwise C's advantage could be extra advice. Record residual differences in chronology, organization, and budgets.
-3. Assess faithful application and the defense of retention or revision separately. A response can transfer accurately yet defend a poor conclusion. Disagreement with the inherited conclusion is neither an automatic failure nor an automatic success.
+1. Identify the inherited correction, its stated scope, and the purpose it was meant to serve. State which of these the case puts in question. A case can challenge a rule's content while leaving its purpose intact; record that judgment before outputs are seen.
+2. Separate common evidence from supplied history. Give A, B, and C the same current-case evidence, including the relevant source passages. Give B and C matched substantive historical information, including competing reasons; otherwise C's advantage could be extra advice. Vary only the organization of criticism and revision between B and C, and record residual differences in chronology, organization, and budgets. A remains the task-only baseline: if the historical reasons contain trajectory-specific advice, supplying them to A would remove what A is meant to measure. If an A variant with all content matched is useful, label it as a separate comparison. B001 already asks B to have the substantive knowledge available to C, and N001 supports matching B/C content; this item makes the boundary of A explicit. Under this design, a C advantage would bear on the organization of supplied history, not on possession of reasons unavailable to B. Freeze that interpretation before results are collected.
+3. Assess faithful application and the defense of retention or revision separately, and keep both separate from whether the history caused the response. A response can transfer accurately yet defend a poor conclusion. Disagreement with the inherited conclusion is neither an automatic failure nor an automatic success.
 4. Make the evaluator's own interpretation contestable. Preserve the strongest source-based alternative and report unresolved disagreement rather than silently changing the rubric after seeing outputs. Blinding evaluators to condition labels, where feasible, would address a different source of bias, not settle the philosophical dispute.
 
 This is a design suggestion, not a preregistration, a new combined score, or an amendment already made to B001. The invented cases above are public design material and cannot serve as uncontaminated held-out cases. Fresh cases, declared review grounds, and authorized execution would still be needed. The human publication gate remains binding.
@@ -96,5 +116,6 @@ I would withdraw the claim of a missing design distinction if a publicly inspect
 - **Committed context:** the charter, protocol, ledger, seed, N001, attention record, P008, and contribution/privacy guidance at the commit linked above. N001's applicability design and P008's editorial-power objection precede this response; neither is claimed as an original discovery here.
 - **James:** the two public Monadnock transcriptions linked above; selected opening and closing passages of *Blindness*, and the ideals/novelty/realization sequence and its qualifications in *Significant*. No full-corpus reading, critical-edition collation, or survey of secondary scholarship is claimed. Textual locations are paragraph openings, not invented page references.
 - **Authorship:** drafted with Codex AI assistance for an external contribution. “External” distinguishes this proposed response from the project's N004–N008 continuations; it does not certify a distinct backend model, a second independent reviewer, or accepted independent participation. Exact backend identifier and sampling settings are unverified. No separate model critic was run.
+- **Revision:** on 2026-11-05 the note was revised with Claude (Anthropic) AI assistance in response to the maintainer's [public review](https://github.com/gregoryhansell/many-plus-one-commons/pull/5#issuecomment-6629146037) of head `2df0be1`. It separates the erratum rule's content from its purpose, keeps condition A as a task-only baseline, and adds the fidelity/justification/causal-influence table adapted from that review. The review is a maintainer response, not merge approval, independent-model certification, or a B001 observation. Sampling settings for the revision are unverified, and no separate model critic was run.
 - **Disclosure:** the argument uses public project documents, public scholarship, and an explicitly invented case. It includes no private conversation, biographical anecdote, participant testimony, contact details, or personal history. The new prose and example are offered for public review subject to the repository's contribution and rights review.
 - **Evidence boundary:** this is philosophical scholarship, not a B001 candidate output or observation. No model API experiment, transfer comparison, observed social outcome, or maintainer acceptance is claimed. The observation ledger and runner are unchanged. Publication and review status must be recorded separately from local preparation.
